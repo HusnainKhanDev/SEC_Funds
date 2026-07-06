@@ -1,0 +1,4 @@
+venv/
+service_account.json
+*.ipynb
+.ipynb_checkpoints
