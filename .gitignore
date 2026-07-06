@@ -2,3 +2,4 @@ venv/
 service_account.json
 *.ipynb
 .ipynb_checkpoints
+.DS_Store
