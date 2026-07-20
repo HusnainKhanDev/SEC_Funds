@@ -1,0 +1,470 @@
+issuer,instrument,industry,ref,floor,investment_type,spread,total_coupon,maturity,principal,cost,fair_value,total_cash_investment,notes,part,table_index,row_index
+"Arcline FM Holdings, LLC (Fairbanks Morse)",First Lien Term Loan,aerospace and defense,SOFR(Q),0.75,debt investments(a),2.75,6.45,6/23/2030,2875972,2881744,2883967,0.11,,ck0001902649-20260331,0,4
+Bleriot US Bidco Inc.,First Lien Term Loan,aerospace and defense,SOFR(Q),,debt investments(a),2.50,6.20,10/30/2026,3289161,3289123,3297960,0.13,,ck0001902649-20260331,0,5
+Cobham Ultra US Co-Borrower LLC (Ultra Electronics),First Lien Term Loan,aerospace and defense,SOFR(S),,debt investments(a),4.18,7.79,8/4/2029,2416311,2417686,2425070,0.09,,ck0001902649-20260331,0,6
+Chromalloy Holdings LLC,First Lien Term Loan,aerospace and defense,SOFR(Q),,debt investments(a),3.25,6.91,3/31/2031,3792109,3806939,3799523,0.13,,ck0001902649-20260331,0,7
+"Engineering Research Holding LLC (Astrion, Inc.)",First Lien Term Loan,aerospace and defense,SOFR(Q),1.00,debt investments(a),5.00,8.70,8/29/2031,22749759,22484214,18048180,0.69,,ck0001902649-20260331,0,8
+Kaman Corporation,First Lien Term Loan,aerospace and defense,SOFR(M),,debt investments(a),2.50,6.20,1/30/2032,5760761,5743196,5769575,0.22,,ck0001902649-20260331,0,9
+Kaman Corporation,First Lien Delayed Draw Term Loan,aerospace and defense,SOFR(M),,debt investments(a),2.50,6.20,2/26/2032,106834,104559,107671,,,ck0001902649-20260331,0,10
+Propulsion BC Finco Sarl (Luxembourg),First Lien Term Loan,aerospace and defense,SOFR(Q),,debt investments(a),2.50,6.20,11/20/2032,1586823,1591956,1589370,0.06,C,ck0001902649-20260331,0,11
+"Skydio, Inc",First Lien Term Loan,aerospace and defense,SOFR(M),2.50,debt investments(a),2.75% Cash + 2.75% PIK,9.17,12/4/2029,7764948,7709786,7757183,0.29,E,ck0001902649-20260331,0,12
+"Skydio, Inc",First Lien Delayed Draw Term Loan A,aerospace and defense,SOFR(M),2.50,debt investments(a),5.00,8.67,12/4/2029,3750000,3722419,3746250,0.14,E,ck0001902649-20260331,0,13
+"Skydio, Inc",First Lien Delayed Draw Term Loan B,aerospace and defense,SOFR(M),2.50,debt investments(a),5.00,8.67,12/4/2029,,"-27,581","-3,750",,D/E,ck0001902649-20260331,0,14
+"Signia Aerospace, LLC",First Lien Term Loan,aerospace and defense,SOFR(Q),,debt investments(a),2.75,6.45,11/21/2031,5446073,5458853,5466496,0.21,,ck0001902649-20260331,0,15
+"Signia Aerospace, LLC",First Lien Delayed Draw Term Loan,aerospace and defense,SOFR(Q),,debt investments(a),2.75,6.45,11/21/2031,,632,449,,,ck0001902649-20260331,0,16
+TransDigm Inc,First Lien Term Loan,aerospace and defense,SOFR(M),,debt investments(a),2.50,6.17,2/28/2031,2767957,2770980,2771445,0.11,L,ck0001902649-20260331,0,17
+Galileo Parent Inc (Vantor Parent Inc),First Lien Term Loan,aerospace and defense,SOFR(Q),,debt investments(a),4.50,8.12,2/28/2033,475000,464906,466540,0.02,,ck0001902649-20260331,0,18
+Zenith AcquisitionCo LLC,First Lien Delayed Draw Term Loan,aerospace and defense,SOFR(Q),0.50,debt investments(a),4.50,8.17,1/13/2033,527379,472105,458962,0.02,E,ck0001902649-20260331,0,19
+Zenith AcquisitionCo LLC,First Lien Revolver,aerospace and defense,SOFR(Q),0.50,debt investments(a),4.50,8.15,1/13/2033,,"-20,628","-25,533",,D/E,ck0001902649-20260331,0,20
+Zenith AcquisitionCo LLC,First Lien Term Loan,aerospace and defense,SOFR(Q),0.50,debt investments(a),4.50,8.15,1/13/2033,22768979,22658606,22632365,0.86,E,ck0001902649-20260331,0,21
+ABC Technologies Inc. (TI Automotive) (Canada),First Lien Term Loan,automobiles,EURIBOR(M),0.75,debt investments(a),5.88,7.77,8/22/2031,17232443.00,19422127,19068952,0.72,C/E,ck0001902649-20260331,0,24
+ABC Technologies Inc. (TI Automotive) (Canada),First Lien Term Loan,automobiles,SOFR(Q),0.75,debt investments(a),5.75,9.45,8/22/2031,29176342,28193088,28020959,1.07,C/E,ck0001902649-20260331,0,25
+"Wand Newco 3, Inc. (aka Caliber Collision)",First Lien Term Loan,automobiles,SOFR(M),,debt investments(a),2.50,6.17,1/30/2031,2244010,2237313,2228706,0.08,,ck0001902649-20260331,0,26
+Clarios Global LP (Canada),First Lien Term Loan,auto components,SOFR(M),,debt investments(a),2.75,6.42,1/14/2032,6198850,6235493,6191101,0.24,C,ck0001902649-20260331,0,29
+Gulfside Supply Inc,First Lien Term Loan,building products,SOFR(Q),,debt investments(a),3.00,6.70,5/29/2031,1599360,1594599,1470412,0.06,,ck0001902649-20260331,0,32
+Trulite Holding Corp.,First Lien Term Loan,building products,SOFR(Q),1.00,debt investments(a),6.00,9.66,3/1/2030,9910001,9780049,9265851,0.35,E,ck0001902649-20260331,0,33
+Wilsonart LLC,First Lien Term Loan,building products,SOFR(Q),,debt investments(a),4.25,7.95,8/5/2031,5248153,5179896,4585574,0.17,,ck0001902649-20260331,0,34
+Primo Brands Corp,First Lien Term Loan,beverages,SOFR(Q),0.50,debt investments(a),2.75,6.45,3/18/2031,985000,980075,987768,0.04,L,ck0001902649-20260331,0,37
+Apex Group Treasury LLC,First Lien Term Loan,capital markets,SOFR(Q),,debt investments(a),3.50,7.17,2/20/2032,1002886,981860,916803,0.03,,ck0001902649-20260331,0,40
+"Ascensus Holdings, Inc",First Lien Term Loan,capital markets,SOFR(M),0.50,debt investments(a),3.00,6.67,8/2/2028,3750085,3726638,3696178,0.14,,ck0001902649-20260331,0,41
+"Allspring Buyer, LLC",First Lien Term Loan,capital markets,SOFR(Q),,debt investments(a),3.00,6.75,11/1/2030,1495773,1499301,1498809,0.06,,ck0001902649-20260331,1,4
+BCPE Pequod Buyer Inc. (Envestnet Inc.),First Lien Term Loan,capital markets,SOFR(Q),,debt investments(a),2.75,6.42,9/19/2031,2166438,2171625,2106406,0.08,,ck0001902649-20260331,1,5
+Brookfield Properties Retail Holding LLC,First Lien Term Loan,capital markets,SOFR(M),,debt investments(a),3.50,7.17,5/28/2030,308668,304789,310244,0.01,,ck0001902649-20260331,1,6
+"Focus Financial Partners, LLC",First Lien Term Loan,capital markets,SOFR(M),,debt investments(a),2.50,6.17,9/15/2031,6292604,6296726,6103480,0.23,,ck0001902649-20260331,1,7
+Hudson River Trading LLC,First Lien Term Loan,capital markets,SOFR(Q),,debt investments(a),2.50,6.17,3/18/2030,748125,746255,745944,0.03,K,ck0001902649-20260331,1,8
+June Purchaser LLC,First Lien Delayed Draw Term Loan,capital markets,SOFR(Q),,debt investments(a),3.25,6.93,11/28/2031,,216,-39,,D,ck0001902649-20260331,1,9
+June Purchaser LLC,First Lien Term Loan,capital markets,SOFR(Q),,debt investments(a),2.75,6.43,11/28/2031,642164,643448,641933,0.02,,ck0001902649-20260331,1,10
+Jupiter Borrower Inc,First Lien Term Loan,capital markets,SOFR(Q),,debt investments(a),2.75,6.43,3/26/2033,492000,489540,492000,0.02,E,ck0001902649-20260331,1,11
+Neon Maple US Debt Mergersub Inc.,First Lien Term Loan,capital markets,SOFR(M),,debt investments(a),2.50,6.17,11/17/2031,1733681,1731792,1701174,0.06,,ck0001902649-20260331,1,12
+OVG Business Services LLC (Oak View),First Lien Term Loan,capital markets,SOFR(M),,debt investments(a),3.00,6.67,6/15/2031,1823862,1823733,1826142,0.07,,ck0001902649-20260331,1,13
+"PMA Parent Holdings, LLC",First Lien Term Loan,capital markets,SOFR(Q),0.75,debt investments(a),4.75,8.45,1/31/2031,44967275,44518697,44427667,1.70,E,ck0001902649-20260331,1,14
+"PMA Parent Holdings, LLC",First Lien Revolver,capital markets,SOFR(Q),0.75,debt investments(a),4.75,8.45,1/31/2031,,"-51,257","-60,393",,D/E,ck0001902649-20260331,1,15
+SRS Acquiom Holdings LLC,First Lien Revolver,capital markets,SOFR(M),0.75,debt investments(a),4.75,8.42,1/14/2032,660222,612445,590899,0.02,E,ck0001902649-20260331,1,16
+SRS Acquiom Holdings LLC,First Lien Term Loan,capital markets,SOFR(Q),0.75,debt investments(a),4.75,8.42,1/14/2032,28884701,28606132,28480315,1.08,E,ck0001902649-20260331,1,17
+"Wharf Street Rating Acquisition, LLC (KBRA)",First Lien Delayed Draw Term Loan,capital markets,SOFR(M),0.75,debt investments(a),4.75,8.42,9/16/2032,,"-36,327",15750,,D/E,ck0001902649-20260331,1,18
+"Wharf Street Rating Acquisition, LLC (KBRA)",First Lien Revolver,capital markets,SOFR(M),0.75,debt investments(a),4.75,8.42,9/16/2032,,"-36,327",0,,D/E,ck0001902649-20260331,1,19
+"Wharf Street Rating Acquisition, LLC (KBRA)",First Lien Term Loan,capital markets,SOFR(M),0.75,debt investments(a),4.75,8.42,9/16/2032,35348980,35022726,35490375,1.35,E,ck0001902649-20260331,1,20
+"Advancion (f/k/a Aruba Investments Holdings, LLC)",First Lien Term Loan,chemicals,SOFR(M),0.75,debt investments(a),4.10,7.77,11/24/2027,1227506,1224453,1179173,0.04,,ck0001902649-20260331,1,23
+"CP Iris Holdco I, Inc",First Lien Delayed Draw Term Loan,chemicals,SOFR(M),,debt investments(a),4.00,7.67,10/27/2032,,85,-482,,D,ck0001902649-20260331,1,24
+"CP Iris Holdco I, Inc",First Lien Term Loan,chemicals,SOFR(M),,debt investments(a),4.00,7.67,10/18/2032,3277902,3283150,3261529,0.12,,ck0001902649-20260331,1,25
+Derby Buyer LLC,First Lien Term Loan,chemicals,SOFR(M),,debt investments(a),3.00,6.68,11/1/2030,4707912,4715355,4710431,0.19,,ck0001902649-20260331,1,26
+Discovery Purchaser Corporation,First Lien Term Loan,chemicals,SOFR(Q),0.50,debt investments(a),3.75,7.42,10/4/2029,3799452,3749431,3747684,0.14,,ck0001902649-20260331,1,27
+INEOS Composites International Holdings LLC (FORTIS),First Lien Term Loan,chemicals,SOFR(M),,debt investments(a),3.50,7.17,2/6/2032,1496600,1494658,1458556,0.06,,ck0001902649-20260331,1,28
+Olympus Water US Holding Corporation (Solenis),First Lien Term Loan,chemicals,SOFR(Q),0.50,debt investments(a),3.00,6.70,6/9/2031,4863024,4840072,4685548,0.18,,ck0001902649-20260331,1,29
+Sparta U.S. Holdco LLC,First Lien Term Loan,chemicals,SOFR(M),0.75,debt investments(a),3.00,6.67,8/2/2028,2618552,2600933,2619953,0.10,,ck0001902649-20260331,1,30
+"W. R. Grace Holdings, LLC",First Lien Term Loan,chemicals,SOFR(Q),0.50,debt investments(a),3.00,6.70,8/19/2032,1659660,1650027,1658282,0.06,,ck0001902649-20260331,1,31
+Allied Universal Holdco LLC,First Lien Term Loan,commercial services and supplies,SOFR(M),0.75,debt investments(a),3.25,6.92,8/5/2032,6666888,6672252,6675222,0.25,,ck0001902649-20260331,1,34
+Anticimex Inc. (Sweden),First Lien Term Loan,commercial services and supplies,SOFR(D),,debt investments(a),2.90,6.54,11/17/2031,184266,184266,184785,0.01,C,ck0001902649-20260331,1,35
+"Ensemble RCM, LLC",First Lien Term Loan,commercial services and supplies,SOFR(Q),,debt investments(a),3.00,6.66,1/28/2033,1027816,1013824,1017964,0.04,,ck0001902649-20260331,1,36
+Cohnreznick Advisory LLC,First Lien Term Loan,commercial services and supplies,SOFR(Q),,debt investments(a),3.25,6.95,2/3/2033,23051709,22980530,22446602,0.85,,ck0001902649-20260331,1,37
+Cohnreznick Advisory LLC,First Lien Delayed Draw Term Loan,commercial services and supplies,SOFR(Q),,debt investments(a),3.25,6.95,3/26/2032,,"-2,539","-35,113",,D,ck0001902649-20260331,1,38
+"Dealer Tire Financial, LLC",First Lien Term Loan,commercial services and supplies,SOFR(M),,debt investments(a),3.00,6.67,7/2/2031,978764,975891,977134,0.04,,ck0001902649-20260331,1,39
+"EnergySolutions, LLC",First Lien Term Loan,commercial services and supplies,SOFR(M),0.50,debt investments(a),3.25,6.92,9/18/2030,645569,642918,649333,0.02,,ck0001902649-20260331,1,40
+GFL Environmental Services Inc (Canada),First Lien Term Loan,commercial services and supplies,SOFR(Q),,debt investments(a),2.50,6.17,2/4/2032,6186275,6207787,6194039,0.24,C,ck0001902649-20260331,1,41
+Madison Safety & Flow LLC,First Lien Term Loan,commercial services and supplies,SOFR(M),,debt investments(a),2.50,6.18,9/26/2031,3522690,3533103,3528573,0.13,,ck0001902649-20260331,1,42
+"Modigent, LLC (Pueblo)",First Lien Delayed Draw Term Loan,commercial services and supplies,SOFR(Q),0.75,debt investments(a),5.00,8.70,8/23/2028,5438031,5381681,5372824,0.20,E,ck0001902649-20260331,1,43
+"Modigent, LLC (Pueblo)",First Lien Term Loan,commercial services and supplies,SOFR(Q),0.75,debt investments(a),5.00,8.70,8/23/2028,1412058,1397967,1395126,0.05,E,ck0001902649-20260331,1,44
+"Modigent, LLC (Pueblo)",First Lien Delayed Draw Term Loan,commercial services and supplies,SOFR(Q),0.75,debt investments(a),5.00,8.70,8/23/2028,979509,969369,967764,0.04,E,ck0001902649-20260331,2,4
+"Modigent, LLC (Pueblo)",First Lien Revolver,commercial services and supplies,SOFR(M),0.75,debt investments(a),5.00,8.68,8/23/2027,340497,331870,332031,0.01,E,ck0001902649-20260331,2,5
+The Action Environmental Group Inc (Interstate Waste Services Inc),First Lien Term Loan,commercial services and supplies,SOFR(Q),,debt investments(a),3.00,6.70,10/4/2030,2254724,2259803,2250970,0.09,,ck0001902649-20260331,2,6
+"TA TT Buyer, LLC (TouchTunes, Octave Music)",First Lien Tranche B-1 Term Loan,commercial services and supplies,SOFR(Q),0.50,debt investments(a),4.75,8.45,4/1/2029,16675135,16677136,16034226,0.61,,ck0001902649-20260331,2,7
+Covia Holdings LLC,First Lien Term Loan,construction materials,SOFR(Q),,debt investments(a),2.75,6.40,2/12/2032,2324467,2327493,2324467,0.08,,ck0001902649-20260331,2,10
+"Potters Industries, LLC",First Lien Term Loan,construction materials,SOFR(Q),,debt investments(a),2.50,6.17,12/9/2032,1500000,1502021,1483125,0.06,E,ck0001902649-20260331,2,11
+Azuria Water Solutions Inc,First Lien Delayed Draw Term Loan,construction and engineering,SOFR(Q),,debt investments(a),2.75,6.43,1/26/2033,,"-1,140","-2,027",,D,ck0001902649-20260331,2,14
+Azuria Water Solutions Inc,First Lien Term Loan,construction and engineering,SOFR(Q),,debt investments(a),2.75,6.43,1/26/2033,1932885,1924806,1918388,0.07,,ck0001902649-20260331,2,15
+Brand Industrial Services Inc,First Lien Term Loan,construction and engineering,SOFR(Q),0.50,debt investments(a),4.50,8.16,8/1/2030,4633412,4596093,4000164,0.15,,ck0001902649-20260331,2,16
+"Brown & Settle, Inc.",First Lien Term Loan,construction and engineering,SOFR(S),1.00,debt investments(a),6.25,9.85,5/16/2030,21658431,21211859,21853357,0.83,E,ck0001902649-20260331,2,17
+"Brown & Settle, Inc.",First Lien Revolver,construction and engineering,SOFR(M),1.00,debt investments(a),6.25,9.92,5/16/2030,1838836,1788284,1838836,0.07,E,ck0001902649-20260331,2,18
+Compsych Holdings Corp,First Lien Term Loan,construction and engineering,SOFR(Q),0.75,debt investments(a),4.75,8.42,7/22/2031,12893150,12844271,13022082,0.50,E,ck0001902649-20260331,2,19
+Compsych Holdings Corp,First Lien Delayed Draw Term Loan,construction and engineering,SOFR(Q),0.75,debt investments(a),4.75,8.42,7/22/2031,,"-7,085",37376,,D/E,ck0001902649-20260331,2,20
+"JF Acquisition, LLC (JF Petroleum)",First Lien Term Loan,construction and engineering,SOFR(M),1.00,debt investments(a),5.50,9.18,6/18/2030,38147486,37611435,37766010,1.43,E,ck0001902649-20260331,2,21
+"JF Acquisition, LLC (JF Petroleum)",First Lien Revolver,construction and engineering,SOFR(M),1.00,debt investments(a),5.50,9.18,6/18/2030,,"-71,232","-41,587",,D/E,ck0001902649-20260331,2,22
+"JF Acquisition, LLC (JF Petroleum)",First Lien Delayed Draw Term Loan,construction and engineering,SOFR(M),1.00,debt investments(a),5.50,9.18,6/18/2030,,"-70,179","-45,052",,D/E,ck0001902649-20260331,2,23
+"LJ Avalon Holdings, LLC (Ardurra)",First Lien Delayed Draw Term Loan,construction and engineering,SOFR(Q),1.00,debt investments(a),4.50,8.17,2/1/2030,2375174,2359142,2365673,0.09,E,ck0001902649-20260331,2,24
+"LJ Avalon Holdings, LLC (Ardurra)",First Lien Term Loan,construction and engineering,SOFR(Q),1.00,debt investments(a),4.50,8.15,2/1/2030,1643940,1629984,1637364,0.06,E,ck0001902649-20260331,2,25
+"LJ Avalon Holdings, LLC (Ardurra)",First Lien Delayed Draw Term Loan,construction and engineering,SOFR(Q),1.00,debt investments(a),4.50,8.17,2/1/2030,645379,639676,642797,0.02,E,ck0001902649-20260331,2,26
+"LJ Avalon Holdings, LLC (Ardurra)",First Lien Revolver,construction and engineering,SOFR(Q),1.00,debt investments(a),4.50,8.17,2/1/2029,,"-1,747","-2,758",,D/E,ck0001902649-20260331,2,27
+"LJ Avalon Holdings, LLC (Ardurra)",First Lien Delayed Draw Term Loan,construction and engineering,SOFR(Q),1.00,debt investments(a),4.50,8.17,2/1/2030,1926135,1909608,1918430,0.07,E,ck0001902649-20260331,2,28
+"LJ Avalon Holdings, LLC (Ardurra)",First Lien Delayed Draw Term Loan,construction and engineering,SOFR(Q),1.00,debt investments(a),4.50,8.17,2/1/2030,3160786,3097342,3134630,0.12,E,ck0001902649-20260331,2,29
+Legence Holdings LLC (Refficiency),First Lien Term Loan,construction and engineering,SOFR(M),,debt investments(a),2.25,5.92,12/16/2031,3021425,3031810,3030867,0.12,,ck0001902649-20260331,2,30
+"Pioneer Acquisitionco, LLC",First Lien Term Loan,construction and engineering,SOFR(Q),,debt investments(a),3.25,6.96,10/23/2032,188000,187557,189136,0.01,,ck0001902649-20260331,2,31
+RBS Buyer Inc.,First Lien Delayed Draw Term Loan,construction and engineering,SOFR(Q),1.00,debt investments(a),4.75,8.42,7/31/2031,,"-18,919",51097,,D/E,ck0001902649-20260331,2,32
+RBS Buyer Inc.,First Lien Revolver,construction and engineering,SOFR(Q),1.00,debt investments(a),4.75,8.42,7/31/2031,,"-63,064",0,,D/E,ck0001902649-20260331,2,33
+RBS Buyer Inc.,First Lien Term Loan,construction and engineering,SOFR(Q),1.00,debt investments(a),4.75,8.42,7/31/2031,19206638,18993292,19494738,0.74,E,ck0001902649-20260331,2,34
+RBS Buyer Inc.,First Lien Term Loan,construction and engineering,SOFR(Q),1.00,debt investments(a),4.75,8.42,7/31/2031,21294618,21036650,21614037,0.82,E,ck0001902649-20260331,2,35
+"Titan Home Improvement, LLC (Renuity)",First Lien Term Loan,construction and engineering,SOFR(Q),1.00,debt investments(a),4.75,8.42,5/31/2030,9509053,9377029,9509053,0.36,E,ck0001902649-20260331,2,36
+"Titan Home Improvement, LLC (Renuity)",First Lien Delayed Draw Term Loan,construction and engineering,SOFR(Q),1.00,debt investments(a),4.75,8.42,5/31/2030,,"-12,566",0,,D/E,ck0001902649-20260331,2,37
+"Titan Home Improvement, LLC (Renuity)",First Lien Revolver,construction and engineering,SOFR(Q),1.00,debt investments(a),4.75,8.42,5/31/2030,,"-20,934",0,,D/E,ck0001902649-20260331,2,38
+Tecta America Corp.,First Lien Term Loan,construction and engineering,SOFR(M),1.00,debt investments(a),2.75,6.42,2/18/2032,1870374,1875827,1865838,0.07,,ck0001902649-20260331,2,39
+"Vortex Companies, LLC",First Lien Delayed Draw Term Loan,construction and engineering,SOFR(M),1.00,debt investments(a),5.00,8.67,9/4/2029,11041555,10921624,11063638,0.42,E,ck0001902649-20260331,2,40
+"Vortex Companies, LLC",First Lien Term Loan,construction and engineering,SOFR(M),1.00,debt investments(a),5.00,8.67,9/4/2029,4960111,4906235,4970031,0.19,E,ck0001902649-20260331,2,41
+"Vortex Companies, LLC",First Lien Term Loan,construction and engineering,SOFR(M),1.00,debt investments(a),5.00,8.67,9/4/2029,2665153,2665153,2670483,0.10,E,ck0001902649-20260331,2,42
+"Vortex Companies, LLC",First Lien Term Loan,construction and engineering,SOFR(M),1.00,debt investments(a),5.00,8.67,9/4/2029,941271,928548,943154,0.04,E,ck0001902649-20260331,2,43
+"Vortex Companies, LLC",First Lien Term Loan,construction and engineering,SOFR(M),1.00,debt investments(a),5.00,8.67,9/4/2029,9063806,8956141,9081934,0.35,E,ck0001902649-20260331,2,44
+"Vortex Companies, LLC",First Lien Delayed Draw Term Loan,construction and engineering,SOFR(M),1.00,debt investments(a),5.00,8.67,9/4/2029,2580854,2547443,2586016,0.10,E,ck0001902649-20260331,2,45
+"Vortex Companies, LLC",First Lien Delayed Draw Term Loan,construction and engineering,SOFR(M),1.00,debt investments(a),5.00,8.67,9/4/2029,610059,601808,611279,0.02,E,ck0001902649-20260331,3,4
+"Vortex Companies, LLC",First Lien Delayed Draw Term Loan,construction and engineering,SOFR(M),1.00,debt investments(a),5.00,8.67,9/4/2029,5477395,5412332,5488350,0.21,E,ck0001902649-20260331,3,5
+"Vortex Companies, LLC",First Lien Revolver,construction and engineering,SOFR(M),1.00,debt investments(a),5.00,8.67,9/4/2029,839464,817270,839464,0.03,E,ck0001902649-20260331,3,6
+"Lucky US BuyerCo, LLC (Global Payments)",First Lien Term Loan,consumer finance,SOFR(Q),1.00,debt investments(a),6.25% Cash + 2.00% PIK,11.92,3/30/2029,3110565,3063928,3031644,0.12,E,ck0001902649-20260331,3,9
+"Lucky US BuyerCo, LLC (Global Payments)",First Lien Revolver,consumer finance,SOFR(Q),1.00,debt investments(a),6.25% Cash + 2.00% PIK,11.92,3/30/2029,373757,367598,363318,0.01,E,ck0001902649-20260331,3,10
+"Charter Next Generation, Inc. (fka Charter NEX US, Inc.)",First Lien Term Loan,containers and packaging,SOFR(M),0.75,debt investments(a),2.50,6.17,12/1/2030,8140186,8135749,8101764,0.30,,ck0001902649-20260331,3,13
+"Clydesdale Acquisition Holdings, Inc",First Lien Term Loan,containers and packaging,SOFR(M),,debt investments(a),3.25,6.92,4/13/2029,989169,989447,926480,0.04,,ck0001902649-20260331,3,14
+Mauser Packaging Solutions Holding Co,First Lien Term Loan,containers and packaging,SOFR(Q),,debt investments(a),3.50,7.16,4/15/2030,1500000,1472370,1453658,0.05,,ck0001902649-20260331,3,15
+ProAmpac PG Borrower LLC,First Lien Term Loan,containers and packaging,SOFR(M),,debt investments(a),4.00,7.78,2/19/2033,434000,427538,420221,0.02,,ck0001902649-20260331,3,16
+Digicert Inc,First Lien Term Loan,communications equipment,SOFR(M),0.75,debt investments(a),5.75,9.42,7/30/2030,33769268,33320767,32452266,1.23,E,ck0001902649-20260331,3,19
+"Ascend Learning, LLC",First Lien Term Loan,diversified consumer services,SOFR(M),,debt investments(a),3.00,6.67,12/11/2028,2797536,2776702,2737389,0.10,,ck0001902649-20260331,3,22
+Belron Finance 2019 LLC (United Kingdom),First Lien Term Loan,diversified consumer services,SOFR(Q),,debt investments(a),2.00,5.66,10/16/2031,2049700,2066468,2051493,0.08,C,ck0001902649-20260331,3,23
+"Express Wash Acquisition Company, LLC (Whistle)",First Lien Term Loan,diversified consumer services,SOFR(Q),1.00,debt investments(a),6.25,9.90,4/10/2031,21506572,21326533,19807553,0.75,E,ck0001902649-20260331,3,24
+"Express Wash Acquisition Company, LLC (Whistle)",First Lien Revolver,diversified consumer services,SOFR(Q),1.00,debt investments(a),6.25,9.90,4/10/2031,,"-10,670","-100,694",,D/E,ck0001902649-20260331,3,25
+Fusion Holding Corp. (Finalsite),First Lien Term Loan,diversified consumer services,SOFR(M),0.75,debt investments(a),4.50% Cash + 2.00% PIK,10.17,9/14/2029,4443084,4394093,4017628,0.15,E,ck0001902649-20260331,3,26
+Fusion Holding Corp. (Finalsite),First Lien Revolver,diversified consumer services,SOFR(M),0.75,debt investments(a),6.25,9.92,9/15/2028,10206,6785,"-24,181",,D/E,ck0001902649-20260331,3,27
+Planet US Buyer LLC,First Lien Term Loan,diversified consumer services,SOFR(Q),,debt investments(a),3.00,6.67,1/31/2031,2619901,2625032,2624001,0.10,,ck0001902649-20260331,3,28
+"Accuserve Solutions, Inc.",First Lien Term Loan,diversified financial services,SOFR(M),1.00,debt investments(a),2.63% Cash + 3.38% PIK,9.68,3/15/2030,499419,499419,421510,0.02,E,ck0001902649-20260331,3,31
+Beekeeper Buyer Inc. (Archway),First Lien Term Loan,diversified financial services,SOFR(Q),0.75,debt investments(a),5.25,8.95,6/30/2031,5809164,5758363,5704599,0.22,E,ck0001902649-20260331,3,32
+Beekeeper Buyer Inc. (Archway),First Lien Revolver,diversified financial services,SOFR(Q),0.75,debt investments(a),5.25,8.95,6/30/2031,,"-12,700","-26,141",,D/E,ck0001902649-20260331,3,33
+"EdgeCo Buyer, Inc.",First Lien Delayed Draw Term Loan E,diversified financial services,SOFR(Q),1.00,debt investments(a),4.50,8.20,6/1/2028,5819770,5783200,5765984,0.22,E,ck0001902649-20260331,3,34
+"EdgeCo Buyer, Inc.",First Lien Term Loan B,diversified financial services,SOFR(Q),1.00,debt investments(a),4.50,8.20,6/1/2028,2516181,2500302,2493004,0.09,E,ck0001902649-20260331,3,35
+"EdgeCo Buyer, Inc.",First Lien Term Loan,diversified financial services,SOFR(Q),,debt investments(a),4.50,8.20,6/1/2028,1099444,1092505,1089317,0.04,E,ck0001902649-20260331,3,36
+"EdgeCo Buyer, Inc.",First Lien Revolver,diversified financial services,Prime,1.00,debt investments(a),3.50,10.25,6/1/2028,58568,54872,53173,,E,ck0001902649-20260331,3,37
+"EdgeCo Buyer, Inc.",First Lien Delayed Draw Term Loan A,diversified financial services,SOFR(Q),1.00,debt investments(a),4.50,8.20,6/1/2028,213902,212553,211932,0.01,E,ck0001902649-20260331,3,38
+"EdgeCo Buyer, Inc.",First Lien Delayed Draw Term Loan B,diversified financial services,SOFR(Q),1.00,debt investments(a),4.50,8.20,6/1/2028,185783,184611,184072,0.01,E,ck0001902649-20260331,3,39
+"EdgeCo Buyer, Inc.",First Lien Delayed Draw Term Loan C,diversified financial services,SOFR(Q),1.00,debt investments(a),4.50,8.20,6/1/2028,61767,61377,61198,,E,ck0001902649-20260331,3,40
+GC Champion Acquisition LLC (Numerix),First Lien Delayed Draw Term Loan,diversified financial services,SOFR(Q),1.00,debt investments(a),5.00,8.67,8/19/2028,,"-32,965","-45,454",,D/E,ck0001902649-20260331,3,41
+GC Champion Acquisition LLC (Numerix),First Lien Incremental Term Loan,diversified financial services,SOFR(Q),1.00,debt investments(a),5.00,8.67,8/21/2028,8764261,8639986,8656083,0.33,E,ck0001902649-20260331,3,42
+GC Champion Acquisition LLC (Numerix),First Lien Term Loan,diversified financial services,SOFR(Q),1.00,debt investments(a),5.00,8.67,8/21/2028,10005721,9987437,9882220,0.38,E,ck0001902649-20260331,3,43
+GC Champion Acquisition LLC (Numerix),First Lien Delayed Draw Term Loan,diversified financial services,SOFR(Q),1.00,debt investments(a),5.00,8.67,8/21/2028,638204,633125,630327,0.02,E,ck0001902649-20260331,3,44
+"GC Waves Holdings, Inc. (Mercer)",First Lien Term Loan,diversified financial services,SOFR(M),0.75,debt investments(a),4.50,8.17,9/30/2030,18881052,18881052,19069860,0.72,E,ck0001902649-20260331,3,45
+"GC Waves Holdings, Inc. (Mercer)",First Lien Revolver,diversified financial services,SOFR(M),0.75,debt investments(a),4.50,8.17,8/10/2029,,0,0,,E,ck0001902649-20260331,3,46
+"GC Waves Holdings, Inc. (Mercer)",First Lien Delayed Draw Term Loan,diversified financial services,SOFR(M),0.75,debt investments(a),4.50,8.17,10/4/2030,9645145,9509138,9946393,0.38,E,ck0001902649-20260331,4,4
+Gryphon Debt Merger Sub Inc. (Altera Corporation LLC),First Lien Term Loan,diversified financial services,SOFR(Q),,debt investments(a),3.00,6.67,8/17/2028,840000,835982,841840,0.03,,ck0001902649-20260331,4,5
+HP PHRG Borrower LLC,First Lien Term Loan,diversified financial services,SOFR(Q),,debt investments(a),4.00,7.70,2/20/2032,19167727,19004529,19023969,0.72,E,ck0001902649-20260331,4,6
+Orion Us Finco Inc.,First Lien Term Loan,diversified financial services,SOFR(Q),,debt investments(a),3.50,7.15,5/19/2032,1500000,1489995,1487813,0.06,,ck0001902649-20260331,4,7
+Oak Funding LLC,First Lien Term Loan,diversified financial services,SOFR(M),0.50,debt investments(a),4.50,8.17,12/2/2032,17487635,17312854,17400197,0.66,E,ck0001902649-20260331,4,8
+Oak Funding LLC,First Lien Delayed Draw Term Loan,diversified financial services,SOFR(M),0.50,debt investments(a),4.50,8.17,12/2/2032,,"-16,260","-8,531",,D/E,ck0001902649-20260331,4,9
+"Payroc, LLC",First Lien Term Loan,diversified financial services,SOFR(M),1.00,debt investments(a),4.75,8.42,11/1/2027,7496572,7448854,7436599,0.28,E,ck0001902649-20260331,4,10
+"Payroc, LLC",First Lien Revolver,diversified financial services,Prime,1.00,debt investments(a),3.75,10.50,11/1/2027,86585,85519,85253,,E,ck0001902649-20260331,4,11
+"Payroc, LLC",First Lien Term Loan,diversified financial services,SOFR(M),1.00,debt investments(a),4.75,8.42,10/31/2027,539596,537544,535279,0.02,E,ck0001902649-20260331,4,12
+SitusAMC Holdings Corporation,First Lien Term Loan,diversified financial services,SOFR(Q),0.75,debt investments(a),5.50,9.20,5/14/2031,14761349,14740917,14717065,0.56,E,ck0001902649-20260331,4,13
+SitusAMC Holdings Corporation,First Lien Term Loan,diversified financial services,SOFR(Q),0.75,debt investments(a),5.50,9.20,5/14/2031,32454262,32358491,32356899,1.23,E,ck0001902649-20260331,4,14
+"Wealth Enhancement Group, LLC",First Lien Delayed Draw Term Loan,diversified financial services,SOFR(Q),1.00,debt investments(a),4.25,7.91,10/4/2028,13926132,13926132,13868394,0.53,E,ck0001902649-20260331,4,15
+"Wealth Enhancement Group, LLC",First Lien Delayed Draw Term Loan,diversified financial services,SOFR(Q),1.00,debt investments(a),4.25,7.95,10/2/2028,4277020,4266077,4249807,0.16,E,ck0001902649-20260331,4,16
+"Wealth Enhancement Group, LLC",First Lien Delayed Draw Term Loan,diversified financial services,SOFR(Q),1.00,debt investments(a),4.25,7.91,10/4/2028,3620725,3603072,3605713,0.14,E,ck0001902649-20260331,4,17
+"Wealth Enhancement Group, LLC",First Lien Delayed Draw Term Loan,diversified financial services,SOFR(Q),1.00,debt investments(a),4.25,7.91,10/2/2028,1080088,1080088,1075610,0.04,E,ck0001902649-20260331,4,18
+"Wealth Enhancement Group, LLC",First Lien Revolver,diversified financial services,SOFR(Q),1.00,debt investments(a),4.25,7.91,10/4/2028,,-557,"-5,462",,D/E,ck0001902649-20260331,4,19
+"Wealth Enhancement Group, LLC",First Lien Delayed Draw Term Loan,diversified financial services,SOFR(Q),1.00,debt investments(a),4.25,7.91,10/2/2028,,"-15,404","-31,548",,D/E,ck0001902649-20260331,4,20
+Level 3 Financing Inc.,First Lien Term Loan,diversified telecommunication services,SOFR(M),,debt investments(a),3.25,6.92,3/27/2032,1664000,1665071,1666255,0.06,,ck0001902649-20260331,4,23
+Venga Finance Sarl (Luxembourg),First Lien Term Loan,diversified telecommunication services,SOFR(Q),,debt investments(a),4.01,7.68,6/28/2029,1243703,1247310,1242926,0.05,C,ck0001902649-20260331,4,24
+"Chariot Buyer, LLC",First Lien Term Loan,electrical equipment,SOFR(M),0.50,debt investments(a),2.75,6.42,7/22/2032,5428961,5408072,5385801,0.20,,ck0001902649-20260331,4,27
+Griffon Bidco Inc. (Layerzero),First Lien Delayed Draw Term Loan,electrical equipment,SOFR(Q),0.75,debt investments(a),5.00,8.70,7/31/2031,,"-40,836",11494,,D/E,ck0001902649-20260331,4,28
+Griffon Bidco Inc. (Layerzero),First Lien Revolver,electrical equipment,SOFR(Q),0.75,debt investments(a),5.00,8.70,7/31/2031,,"-40,836",0,,D/E,ck0001902649-20260331,4,29
+Griffon Bidco Inc. (Layerzero),First Lien Term Loan,electrical equipment,SOFR(Q),0.75,debt investments(a),5.00,8.70,7/31/2031,25247512,25023256,25310631,0.97,E,ck0001902649-20260331,4,30
+"Spark Buyer, LLC (Sparkstone)",First Lien Term Loan,electrical equipment,SOFR(Q),0.75,debt investments(a),5.25,8.90,10/15/2031,11607083,11469283,9587451,0.36,E,ck0001902649-20260331,4,31
+"Spark Buyer, LLC (Sparkstone)",First Lien Revolver,electrical equipment,SOFR(Q),0.75,debt investments(a),5.25,8.95,10/15/2031,1057861,1029952,648821,0.02,E,ck0001902649-20260331,4,32
+"Spark Buyer, LLC (Sparkstone)",First Lien Delayed Draw Term Loan,electrical equipment,SOFR(Q),0.75,debt investments(a),5.25,8.90,10/15/2031,,"-55,818","-818,079",-0.03,D/E,ck0001902649-20260331,4,33
+PG Polaris Bidco SARL (Rosen Group) (Luxembourg),First Lien Term Loan,energy equipment and services,SOFR(Q),,debt investments(a),2.25,5.95,3/26/2031,2728985,2738080,2733133,0.10,C,ck0001902649-20260331,4,36
+City Football Group Ltd (United Kingdom),First Lien Term Loan,entertainment,SOFR(M),0.50,debt investments(a),3.50,7.17,7/21/2030,2069468,2071010,2067533,0.08,C,ck0001902649-20260331,4,39
+"Creative Artists Agency, LLC.",First Lien Term Loan,entertainment,SOFR(M),,debt investments(a),2.50,6.17,10/1/2031,4116192,4117858,4118435,0.16,,ck0001902649-20260331,4,40
+Endeavor Operating Company LLC,First Lien Term Loan,entertainment,SOFR(M),,debt investments(a),2.75,6.42,1/28/2032,6254568,6253852,6248313,0.23,,ck0001902649-20260331,4,41
+International Entertainment JJJCO 3 Ltd (ATG Entertainment LLC) (United Kingdom),First Lien Term Loan,entertainment,SOFR(Q),,debt investments(a),3.00,6.67,4/19/2032,747829,747291,748296,0.03,C,ck0001902649-20260331,4,42
+Oak-Eagle Acquireco Inc (Electronic Arts Inc),First Lien Term Loan,entertainment,SOFR(Q),,debt investments(a),3.50,7.15,3/24/2033,1944883,1915710,1935159,0.07,,ck0001902649-20260331,4,43
+Renaissance Holding Corp.,First Lien Term Loan,entertainment,SOFR(M),,debt investments(a),4.00,7.67,12/11/2031,957753,940066,688687,0.03,,ck0001902649-20260331,4,44
+Sauer Brands Inc,First Lien Term Loan,food products,SOFR(M),,debt investments(a),3.00,6.67,2/4/2032,490928,491380,492155,0.02,,ck0001902649-20260331,5,4
+Saratoga Food Specialties LLC (Solina France SASU) (France),First Lien Term Loan,food products,SOFR(Q),,debt investments(a),3.25,6.92,3/7/2029,930600,933552,936807,0.03,C,ck0001902649-20260331,5,5
+Opal Bidco SAS (Opella) (France),First Lien Term Loan,health care equipment and supplies,SOFR(Q),,debt investments(a),3.00,6.70,4/23/2032,6487400,6511231,6491455,0.25,C,ck0001902649-20260331,5,8
+ACP Tara Holdings Inc. (Arcadia),First Lien Term Loan,healthcare providers and services,SOFR(Q),,debt investments(a),3.25,6.95,9/17/2032,152000,151635,152886,0.01,,ck0001902649-20260331,5,11
+"AHP Health Partners, Inc.",First Lien Term Loan,healthcare providers and services,SOFR(M),,debt investments(a),2.25,5.92,9/20/2032,1910400,1917383,1915415,0.07,,ck0001902649-20260331,5,12
+Aryeh Bidco Investment Ltd (DentalCorp) (Canada),First Lien Delayed Draw Term Loan,healthcare providers and services,CORRA(Q),0.75,debt investments(a),5.00,7.27,1/14/2033,"CAD$1,384,073.00",943607,922030,0.04,C/E,ck0001902649-20260331,5,13
+Aryeh Bidco Investment Ltd (DentalCorp) (Canada),First Lien Revolver,healthcare providers and services,CORRA(Q),0.75,debt investments(a),5.00,7.27,1/14/2033,CAD$-,"-43,371","-44,711",,C/D/E,ck0001902649-20260331,5,14
+Aryeh Bidco Investment Ltd (DentalCorp) (Canada),First Lien Revolver,healthcare providers and services,CORRA(Q),0.75,debt investments(a),5.00,7.27,1/14/2033,,0,"-5,121",,C/D/E,ck0001902649-20260331,5,15
+Aryeh Bidco Investment Ltd (DentalCorp) (Canada),First Lien Term Loan,healthcare providers and services,CORRA(Q),0.75,debt investments(a),5.00,7.31,1/14/2033,"CAD$52,041,129",37128775,36917858,1.41,C/E,ck0001902649-20260331,5,16
+"CHG Healthcare Services, Inc.",First Lien Term Loan,healthcare providers and services,SOFR(Q),,debt investments(a),2.75,6.42,9/29/2028,2704155,2689200,2709644,0.10,,ck0001902649-20260331,5,17
+CNT Holdings I Corp.,First Lien Term Loan,healthcare providers and services,SOFR(Q),0.75,debt investments(a),2.50,6.18,11/8/2032,1500000,1503300,1501050,0.06,,ck0001902649-20260331,5,18
+Examworks Bidco Inc.,First Lien Term Loan,healthcare providers and services,SOFR(M),,debt investments(a),2.50,6.17,2/6/2033,2059385,2064149,2059395,0.08,,ck0001902649-20260331,5,19
+LifePoint Health Inc,First Lien Term Loan,healthcare providers and services,SOFR(Q),,debt investments(a),3.50,7.15,5/19/2031,1521248,1521277,1522062,0.06,,ck0001902649-20260331,5,20
+LifePoint Health Inc,First Lien Term Loan,healthcare providers and services,SOFR(Q),,debt investments(a),3.75,7.42,5/16/2031,2992354,2996482,2996663,0.11,,ck0001902649-20260331,5,21
+"Ingenovis Health, Inc.",First Lien Term Loan,healthcare providers and services,SOFR(Q),0.75,debt investments(a),4.25,8.18,3/5/2028,237466,231565,68106,,G,ck0001902649-20260331,5,22
+"IvyRehab Intermediate II, LLC",First Lien Delayed Draw Term Loan,healthcare providers and services,SOFR(Q),0.75,debt investments(a),5.35,9.05,4/23/2029,13979585,13839706,13979585,0.52,E,ck0001902649-20260331,5,23
+"IvyRehab Intermediate II, LLC",First Lien Delayed Draw Term Loan,healthcare providers and services,SOFR(Q),0.75,debt investments(a),5.10,8.80,4/23/2029,14830258,14476760,14661581,0.57,E,ck0001902649-20260331,5,24
+MB2 Dental Solutions LLC,First Lien Delayed Draw Term Loan,healthcare providers and services,SOFR(Q),0.75,debt investments(a),5.50,9.18,3/11/2033,,"-190,050","-192,294",-0.02,D/E,ck0001902649-20260331,5,25
+Pareto Health Intermediate Holdings Inc,First Lien Term Loan,healthcare providers and services,SOFR(Q),,debt investments(a),5.00,8.71,6/1/2030,5419141,5365233,5364950,0.19,E,ck0001902649-20260331,5,26
+Pareto Health Intermediate Holdings Inc,First Lien Revolver,healthcare providers and services,SOFR(Q),,debt investments(a),5.00,8.71,6/1/2029,,"-4,561","-4,592",-0.01,D/E,ck0001902649-20260331,5,27
+Raven Acquisition Holdings LLC (R1 RCM),First Lien Term Loan,healthcare providers and services,SOFR(M),,debt investments(a),3.00,6.67,11/19/2031,1222835,1224583,1201105,0.05,,ck0001902649-20260331,5,28
+Raven Acquisition Holdings LLC (R1 RCM),First Lien Delayed Draw Term Loan,healthcare providers and services,SOFR(M),,debt investments(a),3.00,6.67,11/19/2031,,99,"-1,922",,D,ck0001902649-20260331,5,29
+"Surgery Partners Holdings, LLC",First Lien Term Loan,healthcare providers and services,SOFR(M),,debt investments(a),2.50,6.17,12/19/2030,3354597,3366482,3359847,0.14,,ck0001902649-20260331,5,30
+Athenahealth Group Inc.,First Lien Term Loan,health care technology,SOFR(M),0.50,debt investments(a),2.75,6.42,2/15/2029,6446962,6442969,6338170,0.24,,ck0001902649-20260331,5,33
+"Cotiviti Holdings, Inc",First Lien Term Loan,health care technology,SOFR(M),,debt investments(a),2.75,6.42,2/24/2031,1536183,1525296,1419057,0.05,,ck0001902649-20260331,5,34
+"Cotiviti Holdings, Inc",First Lien Term Loan,health care technology,SOFR(M),,debt investments(a),2.75,6.42,2/13/2032,904668,896876,835009,0.03,,ck0001902649-20260331,5,35
+MRO Parent Corporation,First Lien Term Loan,health care technology,SOFR(M),0.75,debt investments(a),4.50,8.17,6/9/2032,34586924,34128177,34586923,1.31,E,ck0001902649-20260331,5,36
+MRO Parent Corporation,First Lien Revolver,health care technology,SOFR(M),0.75,debt investments(a),4.50,8.17,6/9/2032,,"-40,091",0,,D/E,ck0001902649-20260331,5,37
+MRO Parent Corporation,First Lien Delayed Draw Term Loan,health care technology,SOFR(M),0.75,debt investments(a),4.50,8.17,6/9/2032,,"-20,046",0,,D/E,ck0001902649-20260331,5,38
+Mpulse Mobile Inc.,First Lien Delayed Draw Term Loan,health care technology,SOFR(Q),0.75,debt investments(a),4.75,8.45,8/26/2032,,"-35,108","-80,766",,D/E,ck0001902649-20260331,5,39
+Mpulse Mobile Inc.,First Lien Revolver,health care technology,SOFR(Q),0.75,debt investments(a),4.75,8.45,8/26/2032,,"-52,662","-123,155",,D/E,ck0001902649-20260331,5,40
+Mpulse Mobile Inc.,First Lien Term Loan,health care technology,SOFR(Q),0.75,debt investments(a),4.75,8.45,8/26/2032,40020902,39658447,39174979,1.48,E,ck0001902649-20260331,5,41
+"Polaris Newco, LLC",First Lien Term Loan,health care technology,SOFR(Q),0.50,debt investments(a),4.26,7.93,6/2/2028,2913059,2913621,2571692,0.10,,ck0001902649-20260331,5,42
+PointClickCare Technologies Inc. (Canada),First Lien Term Loan,health care technology,SOFR(M),,debt investments(a),2.75,6.67,11/3/2031,4382610,4390142,4364817,0.17,C,ck0001902649-20260331,6,4
+"Press Ganey Holdings, Inc.",First Lien Term Loan,health care technology,SOFR(M),,debt investments(a),3.00,6.42,4/30/2031,2044768,2047556,2044001,0.08,,ck0001902649-20260331,6,5
+Zelis Healthcare Corp,First Lien Term Loan,health care technology,SOFR(M),,debt investments(a),2.75,0.00,9/15/2029,1941480,1931297,1884779,0.07,,ck0001902649-20260331,6,6
+Alterra Mountain Company,First Lien Term Loan,"hotels, restaurants and leisure",SOFR(M),,debt investments(a),2.50,6.43,5/31/2030,1243750,1252338,1245305,0.05,E,ck0001902649-20260331,6,9
+BetClic Everest Group S.A.S. (France),First Lien Term Loan,"hotels, restaurants and leisure",SOFR(Q),,debt investments(a),2.75,6.92,12/31/2031,456000,454868,455574,0.02,C,ck0001902649-20260331,6,10
+"Fertitta Entertainment, LLC",First Lien Term Loan,"hotels, restaurants and leisure",SOFR(M),0.50,debt investments(a),3.25,8.44,1/27/2029,7893797,7873465,7755656,0.29,,ck0001902649-20260331,6,11
+Great Canadian Gaming Corp. (Canada),First Lien Term Loan,"hotels, restaurants and leisure",SOFR(Q),,debt investments(a),4.75,6.17,11/1/2029,429281,429246,423737,0.02,C,ck0001902649-20260331,6,12
+Herschend Entertainment Company LLC,First Lien Term Loan,"hotels, restaurants and leisure",SOFR(M),,debt investments(a),2.50,8.65,5/31/2032,2992063,3000957,2999543,0.11,,ck0001902649-20260331,6,13
+IRB Holding Corp,First Lien Term Loan,"hotels, restaurants and leisure",SOFR(Q),0.75,debt investments(a),5.00,7.20,12/15/2030,2232276,2233671,2229486,0.08,,ck0001902649-20260331,6,14
+Motion Finco LLC,First Lien Term Loan B,"hotels, restaurants and leisure",SOFR(Q),,debt investments(a),3.50,6.65,11/12/2029,684976,687334,602536,0.02,,ck0001902649-20260331,6,15
+Scientific Games Holdings LP,First Lien Term Loan,"hotels, restaurants and leisure",SOFR(Q),0.50,debt investments(a),3.00,8.40,4/4/2029,3872501,3855721,3820338,0.15,,ck0001902649-20260331,6,16
+Showtime Acquisition LLC (World Choice),First Lien Term Loan,"hotels, restaurants and leisure",SOFR(Q),,debt investments(a),4.75,8.67,8/13/2031,44537715,44192924,44092337,1.67,E,ck0001902649-20260331,6,17
+"Stonebridge Companies, LLC",First Lien Term Loan,"hotels, restaurants and leisure",SOFR(M),0.75,debt investments(a),5.00,8.67,5/16/2031,6243243,6163272,6305675,0.24,E,ck0001902649-20260331,6,18
+"Stonebridge Companies, LLC",First Lien Revolver,"hotels, restaurants and leisure",SOFR(M),0.75,debt investments(a),5.00,8.67,5/16/2030,,"-14,786",0,,D/E,ck0001902649-20260331,6,19
+"Stonebridge Companies, LLC",First Lien Delayed Draw Term Loan,"hotels, restaurants and leisure",SOFR(M),0.75,debt investments(a),5.00,6.95,5/16/2031,,"-11,482",17927,,D/E,ck0001902649-20260331,6,20
+TRQ Sales LLC,First Lien Term Loan,"hotels, restaurants and leisure",SOFR(Q),,debt investments(a),3.25,7.95,8/13/2032,1500000,1483705,1456883,0.06,,ck0001902649-20260331,6,21
+Voyager Parent LLC,First Lien Term Loan,"hotels, restaurants and leisure",SOFR(Q),,debt investments(a),4.25,6.17,7/1/2032,1750216,1737034,1740555,0.07,,ck0001902649-20260331,6,22
+Whatabrands LLC,First Lien Term Loan,"hotels, restaurants and leisure",SOFR(M),,debt investments(a),2.50,0.00,8/3/2028,1233753,1238353,1233204,0.05,,ck0001902649-20260331,6,23
+Hunter Douglas Holding BV (Netherlands),First Lien Term Loan,household durables,SOFR(Q),,debt investments(a),3.00,6.17,1/17/2032,4073803,4069722,4061500,0.16,C,ck0001902649-20260331,6,26
+Pye-Barker Fire & Safety LLC,First Lien Term Loan,household durables,SOFR(M),,debt investments(a),2.50,6.17,12/10/2032,1957500,1956750,1962736,0.07,,ck0001902649-20260331,6,27
+Pye-Barker Fire & Safety LLC,First Lien Delayed Draw Term Loan,household durables,SOFR(M),,debt investments(a),2.50,7.41,12/10/2032,,497,782,,,ck0001902649-20260331,6,28
+"Weber Stephen Products, LLC",First Lien Term Loan,household durables,SOFR(Q),,debt investments(a),3.75,0.00,9/17/2032,1372000,1364508,1344903,0.05,,ck0001902649-20260331,6,29
+Beach Acquisition Bidco LLC,First Lien Term Loan,industrial conglomerates,SOFR(Q),,debt investments(a),3.25,6.67,6/25/2032,580545,579204,582722,0.02,,ck0001902649-20260331,6,32
+Cube Industrials Buyer Inc. (Circor),First Lien Term Loan,industrial conglomerates,SOFR(Q),,debt investments(a),3.00,6.67,10/20/2031,932604,931312,934157,0.04,,ck0001902649-20260331,6,33
+"LSF12 Crown US Commercial Bidco, LLC",First Lien Term Loan,industrial conglomerates,SOFR(M),,debt investments(a),3.00,6.13,12/2/2031,1455225,1458411,1458499,0.06,,ck0001902649-20260331,6,34
+Resilience Parent LLC (Maclean PWR SYS),First Lien Term Loan,industrial conglomerates,SOFR(Q),,debt investments(a),2.50,0.00,1/24/2033,1500000,1500517,1494143,0.05,,ck0001902649-20260331,6,35
+"Alliant Holdings Intermediate, LLC",First Lien Term Loan,insurance,SOFR(M),,debt investments(a),2.50,6.17,9/19/2031,11943218,11910111,11865169,0.45,,ck0001902649-20260331,6,38
+"AmeriLife Holdings, LLC",First Lien Term Loan,insurance,SOFR(Q),0.75,debt investments(a),5.00,8.67,8/31/2029,23671898,23476236,23506195,0.89,E,ck0001902649-20260331,6,39
+"AmeriLife Holdings, LLC",First Lien Delayed Draw Term Loan,insurance,SOFR(Q),0.75,debt investments(a),5.00,8.67,8/31/2029,,"-11,825","-21,834",,D/E,ck0001902649-20260331,6,40
+"AmeriLife Holdings, LLC",First Lien Revolver,insurance,SOFR(Q),0.75,debt investments(a),5.00,8.67,8/31/2028,322848,314183,309288,0.01,E,ck0001902649-20260331,6,41
+"AmeriLife Holdings, LLC",First Lien Delayed Draw Term Loan,insurance,SOFR(Q),0.75,debt investments(a),5.00,8.67,8/31/2029,919276,908564,912841,0.03,E,ck0001902649-20260331,6,42
+Amwins Group Inc,First Lien Term Loan,insurance,SOFR(Q),0.75,debt investments(a),2.00,5.68,1/30/2032,1496212,1493429,1487998,0.06,,ck0001902649-20260331,6,43
+Amynta Agency Borrower Inc. (Mayfield),First Lien Term Loan,insurance,SOFR(M),,debt investments(a),2.50,6.45,12/29/2031,4875013,4872067,4811467,0.18,,ck0001902649-20260331,7,4
+Ardonagh Group FinCo Pty Ltd (Australia),First Lien Term Loan,insurance,SOFR(Q),,debt investments(a),2.75,8.70,2/27/2031,2674447,2677593,2615957,0.10,C,ck0001902649-20260331,7,5
+EBS Parent Holdings Inc. (The Difference Card),First Lien Term Loan,insurance,SOFR(Q),0.75,debt investments(a),5.00,8.70,7/1/2032,14529374,14399649,14471257,0.55,E,ck0001902649-20260331,7,6
+EBS Parent Holdings Inc. (The Difference Card),First Lien Revolver,insurance,SOFR(Q),0.75,debt investments(a),5.00,8.70,7/1/2032,,"-10,837","-4,855",,D/E,ck0001902649-20260331,7,7
+EBS Parent Holdings Inc. (The Difference Card),First Lien Delayed Draw Term Loan,insurance,SOFR(Q),0.75,debt investments(a),5.00,8.70,7/1/2032,,"-16,256","-14,566",,D/E,ck0001902649-20260331,7,8
+Galway Borrower LLC,First Lien Term Loan,insurance,SOFR(Q),0.75,debt investments(a),4.50,8.20,2/23/2033,3146149,3117108,3143003,0.12,E,ck0001902649-20260331,7,9
+Galway Borrower LLC,First Lien Delayed Draw Term Loan,insurance,SOFR(Q),0.75,debt investments(a),4.50,8.20,2/23/2033,5214560,5170181,5209345,0.20,E,ck0001902649-20260331,7,10
+"Higginbotham Insurance Agency, Inc.",First Lien Term Loan,insurance,SOFR(M),1.00,debt investments(a),4.50,8.17,6/11/2031,15313851,15313851,15313851,0.58,E,ck0001902649-20260331,7,11
+"Higginbotham Insurance Agency, Inc.",First Lien Delayed Draw Term Loan,insurance,SOFR(M),1.00,debt investments(a),4.50,8.17,6/11/2031,,"-56,683",0,,D/E,ck0001902649-20260331,7,12
+"Higginbotham Insurance Agency, Inc.",First Lien Delayed Draw Term Loan,insurance,SOFR(M),1.00,debt investments(a),4.50,8.17,6/11/2031,,0,0,,E,ck0001902649-20260331,7,13
+HUB International Limited,First Lien Term Loan,insurance,SOFR(Q),,debt investments(a),2.25,5.92,6/20/2030,1869462,1867146,1867396,0.07,,ck0001902649-20260331,7,14
+"Integrity Marketing Acquisition, LLC",First Lien Term Loan,insurance,SOFR(Q),0.75,debt investments(a),5.00,8.67,8/25/2028,9666005,9643269,9637007,0.37,E,ck0001902649-20260331,7,15
+"Integrity Marketing Acquisition, LLC",First Lien Delayed Draw Term Loan,insurance,SOFR(Q),,debt investments(a),5.00,8.67,8/26/2033,,"-8,144","-8,129",,D/E,ck0001902649-20260331,7,16
+"Integrity Marketing Acquisition, LLC",First Lien Revolver,insurance,SOFR(Q),0.75,debt investments(a),5.00,8.67,8/25/2028,,"-76,885","-12,554",,D/E,ck0001902649-20260331,7,17
+Jones Deslauriers Insurance Management Inc (Canada),First Lien Term Loan,insurance,SOFR(M),,debt investments(a),3.00,6.66,12/9/2032,2999895,2938681,2923968,0.11,C,ck0001902649-20260331,7,18
+Summit Acquisition Inc.,First Lien Term Loan,insurance,SOFR(M),,debt investments(a),3.50,7.17,10/16/2031,1121801,1122269,1121801,0.04,E,ck0001902649-20260331,7,19
+"Sedgwick Claims Management Services, Inc. (Lightning Cayman Merger Sub, Ltd.)",First Lien Term Loan,insurance,SOFR(M),,debt investments(a),2.50,6.17,7/13/2031,7647788,7646408,7519420,0.29,,ck0001902649-20260331,7,20
+"Truist Insurance Holdings, LLC",First Lien Term Loan,insurance,SOFR(Q),,debt investments(a),2.75,6.45,5/6/2031,7663726,7678040,7575133,0.29,,ck0001902649-20260331,7,21
+USI Inc,First Lien Term Loan,insurance,SOFR(Q),,debt investments(a),5.00,8.65,11/29/2030,1875000,1874006,1872216,0.07,,ck0001902649-20260331,7,22
+"Syndigo, LLC",First Lien Revolver,internet and catalog retail,SOFR(Q),0.75,debt investments(a),5.00,8.67,9/2/2032,1009807,971204,849921,0.03,E,ck0001902649-20260331,7,25
+"Syndigo, LLC",First Lien Term Loan,internet and catalog retail,SOFR(Q),0.75,debt investments(a),5.00,8.67,9/2/2032,31225762,30939271,30039183,1.14,E,ck0001902649-20260331,7,26
+Pug LLC,First Lien Term Loan,internet and direct marketing retail,SOFR(M),,debt investments(a),4.75,8.42,3/15/2030,2892403,2888701,2855351,0.11,,ck0001902649-20260331,7,29
+Bynder Bidco B.V. (Netherlands),First Lien Term Loan B,internet software and services,SOFR(Q),1.00,debt investments(a),6.00,9.67,1/26/2029,2110569,2080815,2087503,0.08,C/E,ck0001902649-20260331,7,32
+Bynder Bidco B.V. (Netherlands),First Lien Revolver B,internet software and services,SOFR(Q),1.00,debt investments(a),6.00,9.67,1/26/2029,,-665,"-1,871",,C/D/E,ck0001902649-20260331,7,33
+"Bynder Bidco, Inc. (Netherlands)",First Lien Term Loan A,internet software and services,SOFR(Q),1.00,debt investments(a),6.00,9.67,1/26/2029,582226,574018,575863,0.02,C/E,ck0001902649-20260331,7,34
+"Bynder Bidco, Inc. (Netherlands)",First Lien Revolver A,internet software and services,SOFR(Q),1.00,debt investments(a),6.00,9.67,1/26/2029,,"-2,413",-515,,C/D/E,ck0001902649-20260331,7,35
+Civicplus LLC,First Lien Term Loan,internet software and services,SOFR(Q),0.75,debt investments(a),3.25% Cash + 2.75% PIK,9.67,8/24/2030,10778271,10711746,10628562,0.40,E,ck0001902649-20260331,7,36
+Civicplus LLC,First Lien Revolver,internet software and services,SOFR(Q),0.75,debt investments(a),3.25% Cash + 2.75% PIK,9.67,8/24/2030,,"-4,201","-9,704",,D/E,ck0001902649-20260331,7,37
+Civicplus LLC,First Lien Delayed Draw Term Loan,internet software and services,SOFR(Q),0.75,debt investments(a),3.25% Cash + 2.75% PIK,9.67,8/24/2030,3684221,3632523,3597680,0.14,E,ck0001902649-20260331,7,38
+"e-Discovery AcquireCo, LLC (Reveal)",First Lien Term Loan,internet software and services,SOFR(Q),1.00,debt investments(a),6.25,9.92,8/23/2029,8541180,8419803,8543614,0.32,E,ck0001902649-20260331,7,39
+"e-Discovery AcquireCo, LLC (Reveal)",First Lien Initial Term Loan,internet software and services,SOFR(Q),1.00,debt investments(a),5.50,9.17,9/1/2028,6640840,6640840,6500539,0.25,E,ck0001902649-20260331,7,40
+"e-Discovery AcquireCo, LLC (Reveal)",First Lien Revolver,internet software and services,SOFR(Q),1.00,debt investments(a),6.25,9.92,8/23/2029,768775,752919,768775,0.03,E,ck0001902649-20260331,7,41
+"Gympass US, LLC",First Lien Term Loan,internet software and services,SOFR(M),1.00,debt investments(a),3.25% Cash + 3.25% PIK,10.28,8/29/2029,2872853,2866523,2872853,0.11,E,ck0001902649-20260331,7,42
+"Gympass US, LLC",First Lien Delayed Draw Term Loan,internet software and services,SOFR(M),1.50,debt investments(a),3.25% Cash + 3.25% PIK,10.28,8/29/2029,12899403,12846638,12899403,0.48,E,ck0001902649-20260331,7,43
+"Magenta Buyer, LLC (McAfee)",First Lien Term Loan,internet software and services,SOFR(M),,debt investments(a),3.00,6.67,3/1/2029,2276848,2274072,2040625,0.08,,ck0001902649-20260331,8,4
+Spartan Bidco Pty Ltd (StarRez) (Australia),First Lien Incremental Term Loan,internet software and services,SOFR(Q),0.75,debt investments(a),6.65,10.32,1/24/2028,9981122,9890824,9874484,0.38,C/E,ck0001902649-20260331,8,5
+Spartan Bidco Pty Ltd (StarRez) (Australia),First Lien Revolver,internet software and services,SOFR(Q),0.75,debt investments(a),6.65,10.32,1/24/2028,187753,181798,181895,0.01,C/E,ck0001902649-20260331,8,6
+"Anthracite Buyer, Inc. (Coalfire)",First Lien Term Loan,it services,SOFR(Q),0.75,debt investments(a),4.50,8.15,12/3/2032,17151957,17070188,16980437,0.64,E,ck0001902649-20260331,8,9
+"Anthracite Buyer, Inc. (Coalfire)",First Lien Revolver,it services,SOFR(Q),0.75,debt investments(a),4.50,8.15,12/3/2032,,"-20,442","-42,880",,D/E,ck0001902649-20260331,8,10
+"Avalara, Inc.",First Lien Term Loan,it services,SOFR(Q),,debt investments(a),2.75,6.45,3/26/2032,461518,459542,451711,0.02,,ck0001902649-20260331,8,11
+"CrewLine Buyer, Inc. (New Relic)",First Lien Term Loan,it services,SOFR(Q),1.00,debt investments(a),6.75,10.42,11/8/2030,9559143,9401943,9224573,0.35,E,ck0001902649-20260331,8,12
+"CrewLine Buyer, Inc. (New Relic)",First Lien Revolver,it services,SOFR(Q),1.00,debt investments(a),6.75,10.42,11/8/2030,,"-16,375","-34,851",,D/E,ck0001902649-20260331,8,13
+"Ensono Holdings, Inc.",First Lien Term Loan,it services,SOFR(M),0.75,debt investments(a),4.11,7.78,5/26/2028,18803109,18697543,17573010,0.66,,ck0001902649-20260331,8,14
+"Fortress Intermediate 3, Inc",First Lien Term Loan,it services,SOFR(M),,debt investments(a),3.00,6.67,6/27/2031,3122962,3132303,3103443,0.12,E,ck0001902649-20260331,8,15
+"Intercept Bidco, Inc.",First Lien Term Loan,it services,SOFR(Q),1.00,debt investments(a),5.75,9.42,6/3/2030,11201104,11045281,10999484,0.42,E,ck0001902649-20260331,8,16
+"Intercept Bidco, Inc.",First Lien Revolver,it services,SOFR(Q),1.00,debt investments(a),5.75,9.42,6/3/2030,,"-24,033","-31,096",,D/E,ck0001902649-20260331,8,17
+"Intercept Bidco, Inc.",First Lien Delayed Draw Term Loan,it services,SOFR(Q),1.00,debt investments(a),5.75,9.42,6/3/2030,,"-18,025","-46,644",,D/E,ck0001902649-20260331,8,18
+"Madison Logic Holdings, Inc.",First Lien Term Loan,it services,SOFR(M),1.00,debt investments(a),7.50,11.17,12/29/2028,2281405,2251127,1957445,0.07,E,ck0001902649-20260331,8,19
+"Madison Logic Holdings, Inc.",First Lien Revolver,it services,SOFR(M),1.00,debt investments(a),7.50,11.17,12/30/2027,,-90,"-12,184",,D/E,ck0001902649-20260331,8,20
+"Research Now Group, LLC (Dynata)",First Lien Second Out Term Loan,it services,SOFR(Q),1.00,debt investments(a),5.76,9.41,10/15/2028,1645377,1510794,863823,0.03,,ck0001902649-20260331,8,21
+"Research Now Group, LLC (Dynata)",First Lien Term Loan,it services,SOFR(Q),,debt investments(a),5.26,8.91,7/15/2028,232306,219569,229113,0.01,,ck0001902649-20260331,8,22
+"Serrano Parent, LLC (Sumo Logic)",First Lien Term Loan,it services,SOFR(Q),1.00,debt investments(a),6.50,10.16,5/12/2030,4110490,4050276,3765209,0.14,E,ck0001902649-20260331,8,23
+"Serrano Parent, LLC (Sumo Logic)",First Lien Revolver,it services,SOFR(Q),1.00,debt investments(a),6.50,10.16,5/12/2030,,"-6,021","-34,433",,D/E,ck0001902649-20260331,8,24
+Trident Technologies LLC,First Lien Term Loan,it services,SOFR(M),,debt investments(a),4.50,8.17,2/6/2032,7332187,7277619,7246620,0.28,,ck0001902649-20260331,8,25
+Alcami Corporation,First Lien Term Loan,life sciences tools and services,SOFR(Q),1.00,debt investments(a),7.15,10.82,12/21/2028,966360,951000,966360,0.04,E,ck0001902649-20260331,8,28
+Alcami Corporation,First Lien Delayed Draw Term Loan,life sciences tools and services,SOFR(M),1.00,debt investments(a),7.10,10.78,12/21/2028,71129,69999,71129,,E,ck0001902649-20260331,8,29
+Alcami Corporation,First Lien Revolver,life sciences tools and services,SOFR(M),1.00,debt investments(a),7.10,10.78,12/21/2028,41617,39502,41617,,E,ck0001902649-20260331,8,30
+"DNAnexus, Inc",First Lien Delayed Draw Term Loan,life sciences tools and services,SOFR(M),3.00,debt investments(a),5.25,8.93,12/18/2029,1199513,1065653,1055571,0.04,E,ck0001902649-20260331,8,31
+"DNAnexus, Inc",First Lien Term Loan,life sciences tools and services,SOFR(M),3.00,debt investments(a),5.25,8.93,12/20/2029,5997566,5952798,5949585,0.22,E,ck0001902649-20260331,8,32
+"Parexel International, Inc.",First Lien Term Loan,life sciences tools and services,SOFR(M),,debt investments(a),2.75,6.42,12/9/2031,2246375,2253877,2241691,0.09,,ck0001902649-20260331,8,33
+Star Parent Inc,First Lien Term Loan,life sciences tools and services,SOFR(Q),,debt investments(a),4.00,7.70,9/27/2030,2618533,2614940,2592583,0.10,,ck0001902649-20260331,8,34
+"Sotera Health Holdings, LLC",First Lien Term Loan,life sciences tools and services,SOFR(M),,debt investments(a),2.50,6.17,5/30/2031,2882440,2891635,2888753,0.11,,ck0001902649-20260331,8,35
+"AI Aqua Merger Sub, Inc. (Osmosis Buyer) (United Kingdom)",First Lien Term Loan,machinery,SOFR(M),,debt investments(a),2.50,6.16,7/31/2028,7129546,7103969,7121739,0.27,C,ck0001902649-20260331,8,38
+Coorstek Inc.,First Lien Term Loan,machinery,SOFR(Q),,debt investments(a),3.00,6.67,10/28/2032,668325,665174,672713,0.03,,ck0001902649-20260331,8,39
+Filtration Group Corporation,First Lien Term Loan,machinery,SOFR(M),0.50,debt investments(a),2.50,6.17,10/23/2028,5294688,5313623,5302948,0.20,,ck0001902649-20260331,8,40
+"Hobbs & Associates, LLC",First Lien Term Loan,machinery,SOFR(M),,debt investments(a),2.75,6.42,7/23/2031,2224207,2217494,2211240,0.08,,ck0001902649-20260331,9,4
+"Hobbs & Associates, LLC",First Lien Delayed Draw Term Loan,machinery,SOFR(M),,debt investments(a),2.75,6.42,7/23/2031,,200,-625,,D,ck0001902649-20260331,9,5
+"Indicor, LLC (Roper Industrial Pro)",First Lien Term Loan,machinery,SOFR(Q),,debt investments(a),2.50,6.20,11/22/2029,3362762,3370445,3366730,0.13,,ck0001902649-20260331,9,6
+LSF12 Helix Parent LLC,First Lien Term Loan,machinery,SOFR(M),,debt investments(a),3.50,7.17,1/21/2033,2249620,2234815,2222625,0.08,,ck0001902649-20260331,9,7
+Madison IAQ LLC,First Lien Term Loan,machinery,SOFR(S),,debt investments(a),2.75,6.38,11/5/2032,5450022,5439650,5468116,0.21,,ck0001902649-20260331,9,8
+TK Elevator US Newco Inc,First Lien Term Loan,machinery,SOFR(S),0.50,debt investments(a),2.75,6.38,4/30/2030,4726031,4729805,4741461,0.18,,ck0001902649-20260331,9,9
+Fleet US Bidco Inc (Argus Media),First Lien Term Loan,media,SOFR(Q),,debt investments(a),2.75,6.42,2/21/2031,1496241,1496241,1499982,0.05,E,ck0001902649-20260331,9,12
+"Kid Distro Holdings, LLC",First Lien Term Loan,media,SOFR(Q),1.00,debt investments(a),4.25,7.92,10/1/2029,16613961,16613961,16345878,0.63,E,ck0001902649-20260331,9,13
+"Kid Distro Holdings, LLC",First Lien Term Loan,media,SOFR(Q),1.00,debt investments(a),4.25,7.92,10/1/2029,1118506,1118506,1100458,0.04,E,ck0001902649-20260331,9,14
+"Kid Distro Holdings, LLC",First Lien Revolver,media,SOFR(Q),1.00,debt investments(a),4.25,7.92,10/1/2029,,0,"-24,952",,D/E,ck0001902649-20260331,9,15
+Speedster Bidco GMBH (Germany),First Lien Term Loan,media,SOFR(M),,debt investments(a),5.00,8.70,12/10/2031,3094469,3114454,2972640,0.11,C,ck0001902649-20260331,9,16
+Streamland Media Midco LLC,First Lien First Out Term Loan,media,SOFR(Q),1.00,debt investments(a),5.76% PIK,9.46,3/31/2029,1492780,1492780,1492780,0.06,E,ck0001902649-20260331,9,17
+Streamland Media Midco LLC,First Lien Last Out Term Loan,media,SOFR(Q),,debt investments(a),6.76% PIK,10.46,3/31/2029,1363232,1268791,444414,0.02,E/G,ck0001902649-20260331,9,18
+Streamland Media Midco LLC,First Lien Delayed Draw Term Loan,media,SOFR(Q),1.00,debt investments(a),4.76% Cash + 1.00% PIK,9.46,3/31/2029,247685,247685,247685,0.01,E,ck0001902649-20260331,9,19
+Streamland Media Midco LLC,First Lien Revolver,media,SOFR(Q),,debt investments(a),5.76% PIK,9.46,3/31/2029,210824,210824,210824,0.01,E,ck0001902649-20260331,9,20
+"TL Voltron Purchaser, LLC (GES)",First Lien Term Loan,media,SOFR(M),1.00,debt investments(a),5.25,8.92,12/31/2030,11607681,11423844,11375527,0.43,E,ck0001902649-20260331,9,21
+"Zayo Group Holdings, Inc.",First Lien Term Loan,media,SOFR(M),,debt investments(a),3.11% Cash + 0.50% PIK,7.28,3/11/2030,1124695,1099393,1106357,0.04,,ck0001902649-20260331,9,22
+TEGA MC US Inc (Grinding Media Inc),First Lien Term Loan,metals and mining,SOFR(Q),0.75,debt investments(a),3.50,7.17,10/21/2028,976360,980101,978191,0.04,E,ck0001902649-20260331,9,25
+TEGA MC US Inc (Grinding Media Inc),First Lien Term Loan,metals and mining,SOFR(Q),,debt investments(a),3.50,7.17,3/24/2033,892000,883080,887540,0.03,E,ck0001902649-20260331,9,26
+"Deep Blue Operating I, LLC",First Lien Term Loan,"oil, gas and consumable fuels",SOFR(M),,debt investments(a),2.75,6.42,3/31/2029,1151000,1152600,1156755,0.04,E,ck0001902649-20260331,9,29
+"Palmdale Oil Company, LLC",First Lien Term Loan,"oil, gas and consumable fuels",SOFR(Q),,debt investments(a),4.75,8.45,12/12/2031,990372,986738,977497,0.04,E,ck0001902649-20260331,9,30
+"Palmdale Oil Company, LLC",First Lien Delayed Draw Term Loan,"oil, gas and consumable fuels",SOFR(Q),,debt investments(a),4.75,8.45,12/12/2031,,0,"-9,923",,D/E,ck0001902649-20260331,9,31
+Alpine Acquisition Corp II (48Forty),First Lien Delayed Draw Term Loan,paper and forest products,SOFR(M),1.00,debt investments(a),5.25,8.92,1/14/2031,,-425,0,,D/E,ck0001902649-20260331,9,34
+Alpine Acquisition Corp II (48Forty),First Lien Revolver,paper and forest products,SOFR(M),1.00,debt investments(a),5.25,8.92,1/14/2031,,"-8,500",0,,D/E,ck0001902649-20260331,9,35
+Alpine Acquisition Corp II (48Forty),First Lien Second Out Term Loan,paper and forest products,SOFR(M),1.00,debt investments(a),5.00,8.67,1/14/2031,439453,439453,439453,0.02,E,ck0001902649-20260331,9,36
+Alpine Acquisition Corp II (48Forty),First Lien Third Out Term Loan,paper and forest products,SOFR(M),1.00,debt investments(a),5.25,8.92,1/14/2031,569181,569181,569181,0.02,E,ck0001902649-20260331,9,37
+FSK Pallet Holding Corp. (Kamps),First Lien Term Loan,paper and forest products,SOFR(Q),1.25,debt investments(a),6.90,10.55,12/23/2026,1458675,1450614,1443867,0.06,E,ck0001902649-20260331,9,38
+FSK Pallet Holding Corp. (Kamps),First Lien Term Loan,paper and forest products,SOFR(Q),1.25,debt investments(a),6.40,10.11,12/23/2026,1165453,1165453,1155232,0.04,E,ck0001902649-20260331,9,39
+"Allied Benefit Systems Intermediate, LLC",First Lien Term Loan,professional services,SOFR(Q),0.75,debt investments(a),5.00,8.70,10/31/2030,41566958,41378673,41192854,1.58,E,ck0001902649-20260331,9,42
+"Allied Benefit Systems Intermediate, LLC",First Lien Delayed Draw Term Loan,professional services,SOFR(Q),0.75,debt investments(a),5.00,8.70,10/31/2030,,0,"-46,468",,D/E,ck0001902649-20260331,9,43
+"Applause App Quality, Inc.",First Lien Term Loan,professional services,SOFR(Q),1.50,debt investments(a),5.75,9.45,10/24/2029,15007034,14793023,14736907,0.56,E,ck0001902649-20260331,10,4
+"Applause App Quality, Inc.",First Lien Revolver,professional services,SOFR(Q),1.50,debt investments(a),5.75,9.40,10/24/2029,150070,134879,123057,,E,ck0001902649-20260331,10,5
+Acuren Delaware Holdco Inc.,First Lien Term Loan,professional services,SOFR(M),0.75,debt investments(a),2.75,6.42,1/31/2030,170704,170704,170764,0.01,,ck0001902649-20260331,10,6
+AlixPartners LLP,First Lien Term Loan,professional services,SOFR(Q),,debt investments(a),5.00,8.67,8/12/2032,1496250,1483532,1484504,0.06,,ck0001902649-20260331,10,7
+"Bullhorn, Inc.",First Lien Delayed Draw Term Loan,professional services,SOFR(M),,debt investments(a),5.00,8.67,9/30/2029,12136269,12125897,11954225,0.45,E,ck0001902649-20260331,10,8
+"Bullhorn, Inc.",First Lien Term Loan,professional services,SOFR(M),1.00,debt investments(a),5.00,8.67,10/1/2029,10262184,10245468,10108251,0.38,E,ck0001902649-20260331,10,9
+"Bullhorn, Inc.",First Lien Delayed Draw Term Loan,professional services,SOFR(M),1.00,debt investments(a),5.00,8.67,9/30/2029,,0,"-16,860",,D/E,ck0001902649-20260331,10,10
+"Bullhorn, Inc.",First Lien Revolver,professional services,SOFR(M),1.00,debt investments(a),5.00,8.67,10/1/2029,197141,195339,137999,0.01,E,ck0001902649-20260331,10,11
+"Bullhorn, Inc.",First Lien Delayed Draw Term Loan,professional services,SOFR(M),1.00,debt investments(a),5.00,8.67,9/30/2029,1400965,1398728,1379951,0.05,E,ck0001902649-20260331,10,12
+"Cherry Bekaert Advisory, LLC",First Lien Term Loan,professional services,SOFR(M),0.75,debt investments(a),4.50,8.17,6/30/2030,2109363,2086984,2071939,0.08,E,ck0001902649-20260331,10,13
+"Cherry Bekaert Advisory, LLC",First Lien Delayed Draw Term Loan,professional services,SOFR(M),0.75,debt investments(a),4.50,8.17,6/30/2030,869181,859953,853760,0.03,E,ck0001902649-20260331,10,14
+"Cherry Bekaert Advisory, LLC",First Lien Delayed Draw Term Loan,professional services,SOFR(M),0.75,debt investments(a),4.50,8.17,6/30/2030,958272,946165,941270,0.04,E,ck0001902649-20260331,10,15
+"Cherry Bekaert Advisory, LLC",First Lien Term Loan,professional services,SOFR(M),0.75,debt investments(a),4.50,8.17,6/30/2030,735938,726640,722881,0.03,E,ck0001902649-20260331,10,16
+"Cherry Bekaert Advisory, LLC",First Lien Revolver,professional services,SOFR(M),0.75,debt investments(a),4.50,8.17,6/30/2030,61721,56976,53805,,E,ck0001902649-20260331,10,17
+"Cherry Bekaert Advisory, LLC",First Lien Term Loan,professional services,SOFR(M),0.75,debt investments(a),4.50,8.17,6/30/2030,7848809,7777794,7709555,0.29,E,ck0001902649-20260331,10,18
+"Cherry Bekaert Advisory, LLC",First Lien Delayed Draw Term Loan,professional services,SOFR(M),0.75,debt investments(a),4.50,8.17,6/28/2030,7848809,7777794,7709555,0.29,E,ck0001902649-20260331,10,19
+Chronicle Parent LLC (Lexitas),First Lien Term Loan,professional services,SOFR(Q),1.00,debt investments(a),5.00,8.67,4/15/2031,30556134,30299524,30097792,1.15,E,ck0001902649-20260331,10,20
+Chronicle Parent LLC (Lexitas),First Lien Revolver,professional services,SOFR(Q),1.00,debt investments(a),5.00,8.67,4/15/2031,,"-27,216","-48,611",,D/E,ck0001902649-20260331,10,21
+Chronicle Parent LLC (Lexitas),First Lien Delayed Draw Term Loan,professional services,SOFR(Q),1.00,debt investments(a),5.00,8.67,4/15/2031,1314525,1232878,1168692,0.04,E,ck0001902649-20260331,10,22
+Citrin Cooperman Advisors LLC,First Lien Term Loan,professional services,SOFR(Q),,debt investments(a),3.00,6.70,3/6/2032,4242299,4241429,4088516,0.16,,ck0001902649-20260331,10,23
+"CoreLogic, Inc. (fka First American Corporation)",First Lien Term Loan,professional services,SOFR(M),0.50,debt investments(a),3.61,7.28,6/2/2028,7134378,7100142,6840121,0.26,,ck0001902649-20260331,10,24
+"DTI Holdco, Inc. (Epiq)",First Lien Term Loan,professional services,SOFR(M),0.75,debt investments(a),4.00,7.67,4/26/2029,21995849,21928451,19044776,0.71,,ck0001902649-20260331,10,25
+Element Materials Technology Group US Holdings Inc.,First Lien Term Loan,professional services,SOFR(Q),0.50,debt investments(a),3.50,7.20,6/24/2029,3741054,3745420,3757440,0.14,,ck0001902649-20260331,10,26
+Grant Thornton Advisors LLC,First Lien Term Loan,professional services,SOFR(M),,debt investments(a),2.75,6.42,6/2/2031,6256930,6241574,5856737,0.22,,ck0001902649-20260331,10,27
+GI Consilio Parent LLC (Skopima Consilio Parent LLC),First Lien Term Loan,professional services,SOFR(M),0.50,debt investments(a),3.75,7.42,5/12/2028,20499481,20383548,16136884,0.62,,ck0001902649-20260331,10,28
+"HSI Halo Acquisitions, Inc.",First Lien Term Loan,professional services,SOFR(Q),0.75,debt investments(a),5.00,8.67,6/28/2031,6103665,6103665,5981592,0.23,E,ck0001902649-20260331,10,29
+"HSI Halo Acquisitions, Inc.",First Lien Revolver,professional services,SOFR(Q),0.75,debt investments(a),5.00,8.67,6/28/2031,,0,"-14,717",,D/E,ck0001902649-20260331,10,30
+"HSI Halo Acquisitions, Inc.",First Lien Delayed Draw Term Loan,professional services,SOFR(Q),0.75,debt investments(a),5.00,8.67,6/28/2031,547675,547674,525684,0.02,E,ck0001902649-20260331,10,31
+"Huckabee Acquisition, LLC (MOREgroup)",First Lien Term Loan,professional services,SOFR(Q),1.00,debt investments(a),5.25,8.92,1/16/2030,4600040,4541868,4600040,0.17,E,ck0001902649-20260331,10,32
+"Huckabee Acquisition, LLC (MOREgroup)",First Lien Revolver,professional services,SOFR(Q),1.00,debt investments(a),5.25,8.92,1/16/2030,,"-7,743",0,,D/E,ck0001902649-20260331,10,33
+"ICIMS, Inc.",First Lien Incremental Term Loan,professional services,SOFR(Q),0.75,debt investments(a),6.25,9.92,8/18/2028,1152092,1143838,1083125,0.04,E,ck0001902649-20260331,10,34
+"Lighthouse Parent Holdings, Inc (Aperture)",First Lien Term Loan,professional services,SOFR(Q),0.75,debt investments(a),4.75,8.42,12/20/2031,5550846,5494061,5511990,0.21,E,ck0001902649-20260331,10,35
+"Lighthouse Parent Holdings, Inc (Aperture)",First Lien Delayed Draw Term Loan,professional services,SOFR(Q),0.75,debt investments(a),4.75,8.42,12/20/2031,1517239,1489537,1498310,0.06,E,ck0001902649-20260331,10,36
+"Lighthouse Parent Holdings, Inc (Aperture)",First Lien Revolver,professional services,SOFR(Q),0.75,debt investments(a),4.75,8.42,12/20/2031,,"-11,117","-7,596",,D/E,ck0001902649-20260331,10,37
+"OMNIA Partners, LLC",First Lien Term Loan,professional services,SOFR(Q),1.00,debt investments(a),2.75,6.43,7/25/2030,1647021,1652022,1647713,0.06,,ck0001902649-20260331,10,38
+Secretariat Advisors LLC,First Lien Term Loan,professional services,SOFR(Q),,debt investments(a),4.00,7.70,2/24/2032,7278428,7248374,7169252,0.27,,ck0001902649-20260331,10,39
+Secretariat Advisors LLC,First Lien Delayed Draw Term Loan,professional services,SOFR(Q),,debt investments(a),4.00,7.70,2/24/2032,,0,"-13,287",,D,ck0001902649-20260331,10,40
+"Vensure Employer Services, Inc.",First Lien Term Loan,professional services,SOFR(Q),0.75,debt investments(a),5.00,8.70,9/27/2031,17494933,17397768,17410572,0.66,E,ck0001902649-20260331,10,41
+"Vensure Employer Services, Inc.",First Lien Delayed Draw Term Loan,professional services,SOFR(Q),0.50,debt investments(a),5.00,8.70,9/27/2031,,"-51,466","-25,163",,D/E,ck0001902649-20260331,10,42
+Boots Group Finco LP,First Lien Term Loan,pharmaceuticals,SOFR(Q),,debt investments(a),3.25,6.92,7/22/2032,2050860,2055794,2060684,0.08,,ck0001902649-20260331,11,4
+Community Merger Sub Debt LLC (CINC Systems),First Lien Term Loan,real estate management and development,SOFR(M),0.75,debt investments(a),5.25,8.92,1/18/2030,10119171,10005296,10046920,0.38,E,ck0001902649-20260331,11,7
+Community Merger Sub Debt LLC (CINC Systems),First Lien Revolver,real estate management and development,SOFR(Q),0.75,debt investments(a),5.25,8.92,1/18/2030,266363,241052,252099,0.01,E,ck0001902649-20260331,11,8
+"Motive Technologies, Inc. (Keep Truckin)",First Lien Term Loan,road and rail,SOFR(M),1.00,debt investments(a),7.36,11.03,4/8/2027,44864231,44332719,44639909,1.70,E,ck0001902649-20260331,11,11
+"Applied Systems, Inc.",First Lien Term Loan,software,SOFR(Q),0.50,debt investments(a),2.25,5.95,9/19/2026,488204,488203,479421,0.02,,ck0001902649-20260331,11,14
+Barracuda Parent LLC,First Lien Term Loan,software,SOFR(Q),,debt investments(a),4.50,8.17,8/15/2029,669471,660113,432646,0.02,,ck0001902649-20260331,11,15
+"Bluefin Holding, LLC (Allvue)",First Lien Term Loan,software,SOFR(Q),1.00,debt investments(a),4.25,7.92,9/12/2029,17648902,17414514,17595955,0.67,E,ck0001902649-20260331,11,16
+"Bluefin Holding, LLC (Allvue)",First Lien Revolver,software,SOFR(Q),1.00,debt investments(a),4.25,7.92,9/12/2029,,"-17,110","-3,572",,D/E,ck0001902649-20260331,11,17
+"Boxer Parent Company, Inc.",First Lien Term Loan,software,SOFR(Q),,debt investments(a),3.00,6.67,7/30/2031,4850871,4858602,4510801,0.17,,ck0001902649-20260331,11,18
+"Central Parent, Inc.",First Lien Term Loan,software,SOFR(Q),,debt investments(a),3.25,6.95,7/6/2029,977613,967258,700303,0.03,,ck0001902649-20260331,11,19
+Clever Devices Ltd.,First Lien Term Loan,software,SOFR(M),1.00,debt investments(a),6.00,9.67,6/12/2030,2187337,2149076,2163276,0.08,E,ck0001902649-20260331,11,20
+Clever Devices Ltd.,First Lien Revolver,software,SOFR(M),1.00,debt investments(a),6.00,9.67,6/12/2030,371050,354823,360846,0.01,E,ck0001902649-20260331,11,21
+"Cloudera, Inc.",First Lien Term Loan,software,SOFR(M),0.50,debt investments(a),3.85,7.52,10/8/2028,3437375,3411088,3078599,0.12,,ck0001902649-20260331,11,22
+"Clover Holding 2, LLC (COHESITY)",First Lien Term Loan,software,SOFR(M),,debt investments(a),4.00,7.66,10/31/2031,6773541,6778885,6502599,0.25,,ck0001902649-20260331,11,23
+"Delta Topco, Inc",First Lien Term Loan,software,SOFR(M),,debt investments(a),2.75,6.42,12/24/2029,3908864,3914035,3790074,0.14,,ck0001902649-20260331,11,24
+Deepl Se (Germany),First Lien Term Loan,software,SOFR(Q),2.50,debt investments(a),5.00,8.70,6/26/2030,16895175,16689556,16675538,0.63,C/E,ck0001902649-20260331,11,25
+Deepl Se (Germany),First Lien Delayed Draw Term Loan,software,SOFR(Q),2.50,debt investments(a),5.00,8.70,6/26/2030,,0,"-192,183",-0.01,C/D/E,ck0001902649-20260331,11,26
+Deepl Se (Germany),First Lien Delayed Draw Term Loan,software,SOFR(Q),2.50,debt investments(a),5.00,8.70,6/26/2030,,0,20832,,C/E,ck0001902649-20260331,11,27
+"Douglas Holdings, Inc (Docupace)",First Lien Term Loan,software,SOFR(Q),1.00,debt investments(a),5.75,9.45,8/27/2030,8550747,8456556,8311326,0.32,E,ck0001902649-20260331,11,28
+"Douglas Holdings, Inc (Docupace)",First Lien Delayed Draw Term Loan B,software,SOFR(Q),1.00,debt investments(a),5.75,9.45,8/27/2030,1858858,1838382,1806810,0.07,E,ck0001902649-20260331,11,29
+"Douglas Holdings, Inc (Docupace)",First Lien PIK Delayed Draw Term Loan,software,SOFR(Q),1.00,debt investments(a),5.75,9.45,8/27/2030,1046328,1046329,1016765,0.04,E,ck0001902649-20260331,11,30
+"Douglas Holdings, Inc (Docupace)",First Lien Revolver,software,SOFR(Q),1.00,debt investments(a),5.75,9.45,8/27/2030,,"-8,191","-20,819",,D/E,ck0001902649-20260331,11,31
+"Dragos, Inc.",First Lien Term Loan,software,SOFR(Q),1.00,debt investments(a),5.25,8.85,6/30/2030,29886213,29632361,29437920,1.12,E,ck0001902649-20260331,11,32
+"Dragos, Inc.",First Lien Delayed Draw Term Loan,software,SOFR(Q),1.00,debt investments(a),5.25,8.85,9/30/2026,,"-169,235","-298,862",-0.01,D/E,ck0001902649-20260331,11,33
+"Dragos, Inc.",First Lien Delayed Draw Term Loan,software,SOFR(Q),1.00,debt investments(a),5.25,8.85,6/30/2030,,0,"-109,729",,D/E,ck0001902649-20260331,11,34
+"Dawn Bidco, LLC",First Lien Term Loan,software,SOFR(Q),,debt investments(a),3.00,6.66,10/7/2032,2333000,2306480,2213107,0.08,,ck0001902649-20260331,11,35
+Darktrace Finco US LLC,First Lien Term Loan,software,SOFR(Q),,debt investments(a),3.25,6.90,10/9/2031,383065,382396,367792,0.01,,ck0001902649-20260331,11,36
+Emburse Inc.,First Lien Term Loan,software,SOFR(Q),0.75,debt investments(a),4.25,7.95,4/10/2032,26049261,25991982,26309754,1.00,E,ck0001902649-20260331,11,37
+Emburse Inc.,First Lien Revolver,software,SOFR(Q),0.75,debt investments(a),4.25,7.95,5/28/2032,,"-5,114",0,,D/E,ck0001902649-20260331,11,38
+Emburse Inc.,First Lien Delayed Draw Term Loan,software,SOFR(Q),0.75,debt investments(a),4.25,7.95,5/28/2032,,"-10,228",46517,,D/E,ck0001902649-20260331,11,39
+Epicor Software Corporation (fka Eagle Parent Inc.),First Lien Term Loan,software,SOFR(M),0.75,debt investments(a),2.50,6.17,5/30/2031,6241707,6221786,6131322,0.23,,ck0001902649-20260331,11,40
+"Flexport Capital, LLC",First Lien Term Loan,software,SOFR(M),2.00,debt investments(a),5.50,9.17,6/30/2029,25317664,25110854,25216393,0.96,E,ck0001902649-20260331,11,41
+"Flexport Capital, LLC",First Lien Delayed Draw Term Loan,software,SOFR(M),2.00,debt investments(a),5.50,9.17,6/30/2029,,"-158,125","-77,442",,D/E,ck0001902649-20260331,11,42
+"Fusion Risk Management, Inc.",First Lien Term Loan,software,SOFR(Q),1.00,debt investments(a),6.00,9.67,5/22/2029,4036148,4001241,4024040,0.15,E,ck0001902649-20260331,12,4
+"Fusion Risk Management, Inc.",First Lien Revolver,software,SOFR(M),1.00,debt investments(a),6.00,9.68,5/22/2029,137281,130756,135908,0.01,E,ck0001902649-20260331,12,5
+"FirstUp, Inc",First Lien Term Loan,software,SOFR(Q),1.00,debt investments(a),6.75,10.45,7/13/2027,9796002,9742559,9041710,0.34,E,ck0001902649-20260331,12,6
+"FirstUp, Inc",First Lien Term Loan,software,SOFR(Q),1.00,debt investments(a),6.75,10.45,7/13/2027,1006856,1001363,929328,0.04,E,ck0001902649-20260331,12,7
+"FirstUp, Inc",First Lien Revolver,software,SOFR(Q),1.00,debt investments(a),6.75,10.45,7/13/2027,,"-4,957","-69,958",,D/E,ck0001902649-20260331,12,8
+Finastra USA Inc.,First Lien Term Loan,software,SOFR(Q),,debt investments(a),4.00,7.67,7/30/2032,897000,888470,844490,0.03,,ck0001902649-20260331,12,9
+Freedom Bidco Limited (Ireland),First Lien Delayed Draw Term Loan,software,SOFR(Q),0.75,debt investments(a),6.28,9.94,12/31/2028,20829384,20609309,20545813,0.78,C/E,ck0001902649-20260331,12,10
+GTY Technology Holdings Inc.,First Lien Term Loan,software,SOFR(Q),1.00,debt investments(a),2.50% Cash + 4.13% PIK,10.32,7/9/2029,3860406,3823495,3783372,0.14,E,ck0001902649-20260331,12,11
+GTY Technology Holdings Inc.,First Lien Delayed Draw Term Loan,software,SOFR(Q),1.00,debt investments(a),2.50% Cash + 4.13% PIK,10.32,7/9/2029,1115469,1106662,1093210,0.04,E,ck0001902649-20260331,12,12
+GTY Technology Holdings Inc.,First Lien Delayed Draw Term Loan,software,SOFR(Q),0.75,debt investments(a),2.50% Cash + 4.13% PIK,10.29,7/7/2029,806976,798245,790873,0.03,E,ck0001902649-20260331,12,13
+GTY Technology Holdings Inc.,First Lien Revolver,software,Prime,1.00,debt investments(a),5.00,11.75,7/9/2029,422432,411022,401358,0.02,E,ck0001902649-20260331,12,14
+GTY Technology Holdings Inc.,First Lien Delayed Draw Term Loan,software,SOFR(Q),,debt investments(a),2.50% Cash + 4.13% PIK,10.29,7/7/2029,343338,339359,336487,0.01,E,ck0001902649-20260331,12,15
+GTY Technology Holdings Inc.,First Lien Delayed Draw Term Loan,software,SOFR(Q),,debt investments(a),2.50% Cash + 4.13% PIK,10.32,7/7/2029,204235,202348,200159,0.01,E,ck0001902649-20260331,12,16
+G-3 Apollo Acquisition Corp (Appriss Retail),First Lien Term Loan,software,SOFR(Q),1.00,debt investments(a),5.00,8.67,3/10/2031,13293148,13128971,12960819,0.49,E,ck0001902649-20260331,12,17
+G-3 Apollo Acquisition Corp (Appriss Retail),First Lien Delayed Draw Term Loan,software,SOFR(Q),1.00,debt investments(a),5.00,8.67,3/10/2031,,"-26,585","-71,751",,D/E,ck0001902649-20260331,12,18
+G-3 Apollo Acquisition Corp (Appriss Retail),First Lien Revolver,software,SOFR(Q),1.00,debt investments(a),5.00,8.71,3/10/2031,287006,251559,215255,0.01,E,ck0001902649-20260331,12,19
+Genesys Cloud Services Inc.,First Lien Term Loan,software,SOFR(M),,debt investments(a),2.50,6.17,1/23/2032,600545,598015,575773,0.02,,ck0001902649-20260331,12,20
+"Honey Intermediate, Inc. (iLobby) (Canada)",First Lien Term Loan,software,SOFR(M),1.00,debt investments(a),2.88% Cash + 3.38% PIK,9.92,9/30/2030,14780857,14615568,14426116,0.55,C/E,ck0001902649-20260331,12,21
+"Honey Intermediate, Inc. (iLobby) (Canada)",First Lien Revolver,software,SOFR(M),1.00,debt investments(a),2.88% Cash + 3.38% PIK,9.92,9/26/2030,,"-19,625","-44,938",,C/D/E,ck0001902649-20260331,12,22
+"Hyphen Solutions, LLC",First Lien Delayed Draw Term Loan,software,SOFR(M),1.00,debt investments(a),4.50,8.17,8/6/2032,,"-14,551","-102,682",,D/E,ck0001902649-20260331,12,23
+"Hyphen Solutions, LLC",First Lien Revolver,software,SOFR(M),1.00,debt investments(a),4.50,8.17,8/6/2032,,"-17,461","-61,609",,D/E,ck0001902649-20260331,12,24
+"Hyphen Solutions, LLC",First Lien Term Loan,software,SOFR(M),1.00,debt investments(a),4.50,8.17,8/6/2032,34568454,34411700,34015358,1.28,E,ck0001902649-20260331,12,25
+"JOBVITE, Inc. (Employ, Inc.)",First Lien Last Out Term Loan,software,SOFR(Q),0.75,debt investments(a),7.50,11.17,8/5/2028,2321515,2298338,1979294,0.08,E,ck0001902649-20260331,12,26
+IQN Holding Corporation (Beeline),First Lien Delayed Draw Term Loan,software,SOFR(Q),0.75,debt investments(a),2.63% Cash + 3.13% PIK,9.45,5/2/2029,38764888,38469935,38198416,1.44,E,ck0001902649-20260331,12,27
+IVXS UK Limited (ComplyAdvantage) (United Kingdom),First Lien Term Loan (4.5% Exit Fee),software,SOFR(Q),4.00,debt investments(a),5.75,9.75,5/19/2029,9466533,9391825,9362401,0.36,C/E/H,ck0001902649-20260331,12,28
+IVXS UK Limited (ComplyAdvantage) (United Kingdom),First Lien Delayed Draw Term Loan (4.5% Exit Fee),software,SOFR(M),4.00,debt investments(a),5.75,9.75,5/27/2029,3155511,3130608,3120800,0.12,C/E/H,ck0001902649-20260331,12,29
+ION Platform Finance US Inc.,First Lien Term Loan,software,SOFR(Q),,debt investments(a),3.75,7.45,9/30/2032,1702000,1680034,1377199,0.05,,ck0001902649-20260331,12,30
+"Kaseya, Inc.",First Lien Term Loan,software,SOFR(M),,debt investments(a),3.25,6.92,3/20/2032,2456494,2455999,2301145,0.09,,ck0001902649-20260331,12,31
+"Logicmonitor, Inc",First Lien Term Loan,software,SOFR(Q),0.75,debt investments(a),5.50,9.17,11/19/2031,36628138,36302129,35712434,1.35,E,ck0001902649-20260331,12,32
+"Logicmonitor, Inc",First Lien Revolver,software,SOFR(Q),0.75,debt investments(a),5.50,9.17,11/19/2031,,"-14,960","-46,413",,D/E,ck0001902649-20260331,12,33
+"Logicmonitor, Inc",First Lien Delayed Draw Term Loan,software,SOFR(Q),0.75,debt investments(a),5.50,9.17,10/7/2032,,"-38,964","-272,200",-0.01,D/E,ck0001902649-20260331,12,34
+"MH Sub I, LLC (Micro Holding Corp.)",First Lien Term Loan,software,SOFR(M),,debt investments(a),4.25,7.92,12/11/2031,2386349,2371700,1601837,0.06,,ck0001902649-20260331,12,35
+"MH Sub I, LLC (Micro Holding Corp.)",First Lien 2023 Incremental Term Loan,software,SOFR(M),1.00,debt investments(a),4.25,7.92,5/3/2028,2154098,2152994,1857910,0.07,,ck0001902649-20260331,12,36
+Onward Acquireco Inc (Onestream Inc),First Lien Delayed Draw Term Loan,software,SOFR(M),,debt investments(a),2.38% Cash + 2.68% PIK,8.71,3/30/2033,,"-20,679","-41,391",,D/E,ck0001902649-20260331,13,4
+Onward Acquireco Inc (Onestream Inc),First Lien Revolver,software,SOFR(M),,debt investments(a),2.38% Cash + 2.68% PIK,8.71,3/30/2033,,0,"-17,249",,D/E,ck0001902649-20260331,13,5
+Onward Acquireco Inc (Onestream Inc),First Lien Term Loan,software,SOFR(M),,debt investments(a),2.38% Cash + 2.68% PIK,8.71,3/30/2033,12876590,12780053,12780016,0.49,E,ck0001902649-20260331,13,6
+Mitchell International Inc,First Lien Term Loan,software,SOFR(Q),,debt investments(a),3.00,6.67,6/17/2031,3041554,3033474,2910539,0.11,,ck0001902649-20260331,13,7
+"Planview Parent, Inc.",First Lien Term Loan,software,SOFR(Q),,debt investments(a),3.50,7.20,12/17/2027,3254040,3244659,2450715,0.09,,ck0001902649-20260331,13,8
+"Project Boost Purchaser, LLC (JD Power, AutoData Inc)",First Lien Term Loan,software,SOFR(Q),,debt investments(a),2.75,6.45,7/2/2031,4818949,4821261,4655129,0.18,,ck0001902649-20260331,13,9
+Ping Identity Holding Corp,First Lien Term Loan,software,SOFR(M),,debt investments(a),2.75,6.42,11/5/2032,1657000,1661283,1638359,0.06,E,ck0001902649-20260331,13,10
+"Proofpoint, Inc.",First Lien Term Loan,software,SOFR(Q),,debt investments(a),3.00,6.70,8/21/2028,5049315,5040108,4895740,0.19,,ck0001902649-20260331,13,11
+Qlik Technologies Inc. (Project Alpha),First Lien Term Loan,software,SOFR(Q),,debt investments(a),3.25,6.95,10/28/2030,999269,1001194,761718,0.03,,ck0001902649-20260331,13,12
+"RealPage, Inc",First Lien Term Loan,software,SOFR(Q),,debt investments(a),3.75,7.45,4/24/2028,4741396,4748683,4617551,0.18,,ck0001902649-20260331,13,13
+Shackleton Bidco Inc. (Payworks) (Canada),First Lien Revolver,software,CORRA(Q),0.75,debt investments(a),4.50,6.76,11/5/2032,CAD$-,"-35,990","-67,165",,C/D/E,ck0001902649-20260331,13,14
+Shackleton Bidco Inc. (Payworks) (Canada),First Lien Delayed Draw Term Loan,software,CORRA(Q),0.75,debt investments(a),4.50,6.76,11/5/2032,CAD$-,"-143,959","-268,661",-0.01,C/D/E,ck0001902649-20260331,13,15
+Shackleton Bidco Inc. (Payworks) (Canada),First Lien Term Loan,software,CORRA(Q),0.75,debt investments(a),4.50,6.76,10/25/2032,"CAD$43,064,004",30322313,30318071,1.14,C/E,ck0001902649-20260331,13,16
+"Sophia, L.P. (Ellucian)",First Lien Term Loan,software,SOFR(M),0.50,debt investments(a),2.50,6.17,10/7/2029,3470498,3469741,3380838,0.13,,ck0001902649-20260331,13,17
+"Thunder Purchaser, Inc. (Vector Solutions)",First Lien Incremental Delayed Draw Term Loan,software,SOFR(Q),1.00,debt investments(a),5.40,9.10,6/30/2028,1013750,1005430,990890,0.04,E,ck0001902649-20260331,13,18
+"Thunder Purchaser, Inc. (Vector Solutions)",First Lien Incremental Term Loan,software,SOFR(Q),1.00,debt investments(a),5.40,9.10,6/30/2028,567700,564217,558129,0.02,E,ck0001902649-20260331,13,19
+TIBCO Software Inc.,First Lien Term Loan,software,SOFR(M),,debt investments(a),3.25,6.95,8/13/2032,1750163,1746403,1608400,0.06,,ck0001902649-20260331,13,20
+UKG Inc.,First Lien Term Loan,software,SOFR(Q),,debt investments(a),2.50,6.17,1/30/2031,1122283,1095245,1073957,0.04,,ck0001902649-20260331,13,21
+"Xplor T1, LLC",First Lien Term Loan,software,SOFR(Q),,debt investments(a),3.50,7.17,10/28/2032,1446730,1444119,1349076,0.05,E,ck0001902649-20260331,13,22
+Mavis Tire Express Services Topco Corp,First Lien Term Loan,specialty retail,SOFR(M),0.75,debt investments(a),3.00,6.67,5/4/2028,5621467,5617006,5623603,0.21,,ck0001902649-20260331,13,25
+RVR Dealership Holdings LLC,First Lien Term Loan,specialty retail,SOFR(M),,debt investments(a),4.50,8.18,2/26/2033,750000,742541,725625,0.03,E,ck0001902649-20260331,13,26
+"BCPE Empire Holdings, Inc.",First Lien Term Loan,trading companies and distributors,SOFR(M),,debt investments(a),3.25,6.92,12/11/2030,1204429,1201817,1188368,0.05,,ck0001902649-20260331,13,29
+"BCPE Empire Holdings, Inc.",First Lien Term Loan,trading companies and distributors,SOFR(M),,debt investments(a),3.50,7.17,12/29/2032,1875000,1865828,1849228,0.07,,ck0001902649-20260331,13,30
+Flow Control Group (Flow Merger Sub),First Lien Term Loan,trading companies and distributors,SOFR(M),,debt investments(a),3.25,6.92,2/28/2033,52000,52000,52065,,,ck0001902649-20260331,13,31
+Veritiv Corp.,First Lien Term Loan,trading companies and distributors,SOFR(Q),,debt investments(a),4.00,7.70,11/17/2030,393493,391948,383374,0.01,,ck0001902649-20260331,13,32
+"White Cap Supply Holdings, LLC",First Lien Tranche B Term Loan,trading companies and distributors,SOFR(M),,debt investments(a),3.25,6.92,10/19/2029,7778231,7752306,7499226,0.29,,ck0001902649-20260331,13,33
+"WH Borrower, LLC (WHP)",First Lien Term Loan,"textiles, apparel and luxury goods",SOFR(Q),0.50,debt investments(a),4.50,8.16,2/20/2032,26581671,26469603,26633638,1.01,,ck0001902649-20260331,14,4
+Composecure Holdings LLC,First Lien Term Loan,"technology hardware, storage and peripherals",SOFR(M),,debt investments(a),2.25,5.93,1/7/2033,864000,862949,863464,0.03,,ck0001902649-20260331,14,7
+SumUp Holdings Luxembourg S.A.R.L. (Luxembourg),First Lien Delayed Draw Term Loan,"technology hardware, storage and peripherals",SOFR(Q),1.00,debt investments(a),5.50,9.17,4/25/2031,12800000,12738720,12800000,0.49,C/E,ck0001902649-20260331,14,8
+"Brown Group Holding, LLC",First Lien Term Loan,transportation infrastructure,SOFR(M),,debt investments(a),2.50,6.17,7/1/2031,1233753,1241268,1236918,0.05,,ck0001902649-20260331,14,11
+"KKR Apple Bidco, LLC",First Lien Term Loan,transportation infrastructure,SOFR(M),,debt investments(a),2.50,6.17,9/23/2031,330359,330359,330927,0.01,,ck0001902649-20260331,14,12
+"OpenMarket, Inc. (Infobip) (United Kingdom)",First Lien Term Loan,wireless telecommunication services,SOFR(Q),0.75,debt investments(a),5.50,9.20,6/11/2029,43689841,43166729,42992725,1.63,,ck0001902649-20260331,14,15
+Streamland Media Holdings LLC,Common Stock,media,,,equity securities,,,,12363,645215,0,,,ck0001902649-20260331,14,22
+"48forty Intermediate Holdings, Inc.",Class A-1 Common Units,paper and forest products,,,equity securities,,,,285,0,0,,E/I/J,ck0001902649-20260331,14,25
+"48forty Intermediate Holdings, Inc.",Preferred Units,paper and forest products,,,equity securities,,,,285,1087468,1041809,0.04,E/I/J,ck0001902649-20260331,14,26

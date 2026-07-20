@@ -4,7 +4,7 @@ import pandas as pd
 import re
 
 DIR = Path("Consolidated_Schedule_of_Investments/2026-03-31/")
-DIR_FILES = Path(DIR, "CSI_Forms")
+DIR_FILES = Path(DIR, "soi_forms")
 OUTDIR = Path(DIR, "outputs")
 OUTDIR.mkdir(exist_ok=True)
 

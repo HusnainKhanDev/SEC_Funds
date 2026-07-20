@@ -1,0 +1,84 @@
+portfolio_company,industry,security,interest_rate,investment_type,acquisition_date,percentage_of_class,maturity,amount_quantity,cost,fair_value,part,table_index,row_index
+"ACTIV8 Health, LLC",Insurance,"1st Lien, Secured Loan",3M SOFR + 5.75% (9.41%),investments at fair value,02/03/2026,,02/03/2031,3696,3660,3655,gecc-20260331,0,3
+Advancion,Chemicals,"1st Lien, Secured Loan",3M SOFR + 4.00% (7.77%),investments at fair value,08/26/2025,,11/24/2027,2974,2944,2837,gecc-20260331,0,4
+American Coastal Insurance Corp.,Insurance,Unsecured Bond,7.25%,investments at fair value,12/20/2022,,12/15/2027,8000,6046,7945,gecc-20260331,0,5
+Auction.com,Financial Services,"1st Lien, Secured Loan",6M SOFR + 6.00% (9.63%),investments at fair value,09/09/2024,,05/26/2028,1995,1921,1661,gecc-20260331,0,6
+"CLO Formation JV, LLC",Structured Finance,Common Equity,,investments at fair value,04/23/2024,71.25%,,166,52358,37590,gecc-20260331,0,7
+"CMI Marketing, Inc.",Marketing Services,"1st Lien, Secured Loan",1M SOFR + 4.25% (8.03%),investments at fair value,09/05/2025,,03/23/2028,1885,1874,1865,gecc-20260331,0,8
+"Commercial Vehicle Group, Inc.",Transportation Equipment Manufacturing,"1st Lien, Secured Loan",1M SOFR + 9.75% (13.52%),investments at fair value,07/31/2025,,06/27/2030,4192,4079,4190,gecc-20260331,0,9
+"Commercial Vehicle Group, Inc.",Transportation Equipment Manufacturing,Tranche 1 warrants,,investments at fair value,07/31/2025,*,,103547,0,194,gecc-20260331,0,10
+"Commercial Vehicle Group, Inc.",Transportation Equipment Manufacturing,Tranche 2 warrants,,investments at fair value,07/31/2025,*,,103547,0,176,gecc-20260331,0,11
+Confluence Technologies,Technology,"1st Lien, Secured Loan",3M SOFR + 3.75% (7.60%),investments at fair value,03/04/2025,,07/31/2028,1093,1005,902,gecc-20260331,0,12
+Conuma Resources LTD,Metals & Mining,"1st Lien, Secured Bond",13.13%,investments at fair value,08/08/2024,,05/01/2028,1122,1139,1088,gecc-20260331,0,13
+Conuma Resources LTD,Metals & Mining,"1st Lien, Secured Bond",13.13%,investments at fair value,04/15/2025,,05/01/2028,1400,1375,1428,gecc-20260331,0,14
+"Coreweave Compute Acquisition Co. II, LLC",Technology,"1st Lien, Secured Loan",3M SOFR + 9.62% (13.30%),investments at fair value,08/21/2023,,07/31/2028,10938,10912,11157,gecc-20260331,0,15
+"Coreweave Compute Acquisition Co. IV, LLC",Technology,"1st Lien, Secured Loan",3M SOFR + 6.00% (9.67%),investments at fair value,05/29/2024,,05/16/2030,2911,2878,2969,gecc-20260331,0,16
+CW Opportunity 2 LP,Technology,Private Fund,,investments at fair value,05/14/2024,,,4083246,4083,6267,gecc-20260331,0,17
+Del Monte Foods Corp II Inc,Food & Staples,Jr. DIP Loan,,investments at fair value,07/14/2025,,06/01/2026,2517,2515,705,gecc-20260331,0,18
+Del Monte Foods Corp II Inc,Food & Staples,"1st Lien, Secured Loan",,investments at fair value,10/16/2024,,08/02/2028,2040,2030,0,gecc-20260331,0,19
+Del Monte Foods Corp II Inc,Food & Staples,"1st Lien, Secured Loan",,investments at fair value,04/17/2025,,08/02/2028,264,255,0,gecc-20260331,0,20
+Dorel Industries Inc.,Consumer Products,"1st Lien, Secured Loan",3M SOFR + 11.17% (12.58% Cash + 2.50% PIK),investments at fair value,11/14/2025,,09/30/2030,6849,6555,6471,gecc-20260331,0,21
+Dorel Industries Inc.,Consumer Products,Warrants,,investments at fair value,11/14/2025,*,,95122,0,121,gecc-20260331,0,22
+"DS Admiral Bidco, LLC",Technology,"1st Lien, Secured Loan",1M SOFR + 4.25% (7.95%),investments at fair value,10/24/2025,,06/26/2031,2486,2463,2326,gecc-20260331,0,23
+"Dynata, LLC (New Insight Holdings, Inc.)",Internet Media,Warrants,,investments at fair value,07/15/2024,,,45714,0,0,gecc-20260331,0,24
+EagleView Technology Corp,Technology,"1st Lien, Secured Loan",3M SOFR + 6.50% (9.20% Cash + 1.00% PIK),investments at fair value,10/21/2024,,08/14/2028,4242,4150,3852,gecc-20260331,0,25
+"ECL Entertainment, LLC",Casinos & Gaming,"1st Lien, Secured Loan",1M SOFR + 3.00% (6.67%),investments at fair value,10/28/2025,,08/31/2030,1990,1988,1975,gecc-20260331,0,26
+"Elevate Textiles, Inc.",Textiles,"1st Lien, Secured Loan",3M SOFR + 6.50% (4.81% Cash + 5.50% PIK),investments at fair value,11/07/2024,,09/30/2027,2594,2257,2015,gecc-20260331,1,2
+"First Brands, Inc.",Transportation Equipment Manufacturing,"1st Lien, Secured Loan",,investments at fair value,06/09/2023,,03/30/2027,2174,2175,3,gecc-20260331,1,3
+"First Brands, Inc.",Transportation Equipment Manufacturing,"2nd Lien, Secured Loan",,investments at fair value,03/24/2021,,03/30/2028,16200,15812,5,gecc-20260331,1,4
+"Flexsys Cayman Holdings, LP",Chemicals,"1st Lien, Secured Loan",3M SOFR + 5.25% (9.17%),investments at fair value,05/28/2025,,08/01/2029,5992,5195,365,gecc-20260331,1,5
+Foresight Energy,Metals & Mining,"1st Lien, Secured Loan",3M SOFR + 8.00% (11.80%),investments at fair value,07/29/2021,,06/30/2027,5803,5815,5505,gecc-20260331,1,6
+Form Technologies LLC,Industrial,"1st Lien, Secured Loan",3M SOFR + 5.75% (9.42%),investments at fair value,11/01/2024,,07/19/2030,4714,4637,4267,gecc-20260331,1,7
+FPL Food LLC,Food & Staples,"1st Lien, Secured Loan",PRIME + 3.25% (11.50%),investments at fair value,10/02/2024,,02/13/2027,4000,4000,4000,gecc-20260331,1,8
+"Goodnight Water Solutions, LLC",Energy Midstream,"1st Lien, Secured Loan",1M SOFR + 4.00% (7.67%),investments at fair value,10/15/2025,,06/04/2029,2984,2945,2941,gecc-20260331,1,9
+"Great Elm Specialty Finance, LLC",Specialty Finance,Subordinated Note,13.00%,investments at fair value,09/01/2023,,06/30/2026,25325,25325,25325,gecc-20260331,1,10
+"Great Elm Specialty Finance, LLC",Specialty Finance,Common Equity,,investments at fair value,09/01/2023,87.50%,,87500,17000,12465,gecc-20260331,1,11
+Inmar Inc.,Consumer Services,"1st Lien, Secured Loan",3M SOFR + 4.50% (8.17%),investments at fair value,10/31/2024,,10/30/2031,1995,1991,1950,gecc-20260331,1,12
+Invesco Senior Loan,Credit Fund,Common Equity,,investments at fair value,11/21/2025,*,,205000,4264,4184,gecc-20260331,1,13
+"Ipsen US Holdings, Inc.",Industrial,"1st Lien, Secured Loan",1M SOFR + 12.05% (6.97% Cash + 8.75% PIK),investments at fair value,08/14/2024,,07/31/2029,5691,5546,5474,gecc-20260331,1,14
+ITG Communications LLC,Industrial,"1st Lien, Secured Loan",1M SOFR + 4.75% (8.45%),investments at fair value,11/04/2025,,07/09/2031,2484,2437,2418,gecc-20260331,1,15
+JFL-Tiger Acquisition Co Inc,Environmental Services,"1st Lien, Secured Loan",3M SOFR + 3.75% (7.43%),investments at fair value,02/24/2026,,10/17/2030,1995,1999,1999,gecc-20260331,1,16
+"Mad Engine Global, LLC",Apparel,"1st Lien, Secured Loan",3M SOFR + 7.00% (10.96%),investments at fair value,06/30/2021,,07/15/2027,7488,6985,6484,gecc-20260331,1,17
+"MajorDrive Holdings IV, LLC",Consumer Products,"1st Lien, Secured Loan",3M SOFR + 4.00% (7.96%),investments at fair value,03/23/2026,,06/01/2028,997,918,902,gecc-20260331,1,18
+"MajorDrive Holdings IV, LLC",Consumer Products,Unsecured Bond,6.38%,investments at fair value,12/03/2025,,06/01/2029,2000,1492,1481,gecc-20260331,1,19
+Maverick Gaming LLC,Casinos & Gaming,Sr. DIP Loan,1M SOFR + 12.50% (16.17%),investments at fair value,07/31/2025,,04/16/2026,907,905,907,gecc-20260331,1,20
+Maverick Gaming LLC,Casinos & Gaming,Jr. DIP Loan,,investments at fair value,07/16/2025,,04/16/2026,1603,1557,970,gecc-20260331,1,21
+Maverick Gaming LLC,Casinos & Gaming,"1st Lien, Secured Loan",,investments at fair value,04/03/2024,,06/03/2028,5741,6349,0,gecc-20260331,1,22
+NGC CLO 2 Ltd.,Structured Finance,CLO Equity,,investments at fair value,03/07/2025,,,7410,6190,6482,gecc-20260331,1,23
+Natus Medical Inc,Healthcare,"1st Lien, Secured Loan",3M SOFR + 5.25% (9.10%),investments at fair value,11/13/2025,,07/20/2029,1000,998,990,gecc-20260331,1,24
+New Wilkie Energy Pty Limited,Metals & Mining,"1st Lien, Secured Loan",,investments at fair value,02/20/2025,,02/20/2027,1268,1250,279,gecc-20260331,1,25
+New Wilkie Energy Pty Limited,Metals & Mining,"1st Lien, Secured Loan",,investments at fair value,02/20/2025,,02/20/2027,114,103,92,gecc-20260331,1,26
+New Wilkie Energy Pty Limited,Metals & Mining,"2nd Lien, Secured Loan",,investments at fair value,02/20/2025,,,4153,4460,0,gecc-20260331,1,27
+Northeast Grocery Inc,Food & Staples,"1st Lien, Secured Loan",3M SOFR + 7.50% (11.15%),investments at fair value,08/08/2024,,12/13/2028,2601,2625,2608,gecc-20260331,1,28
+"NY Daily News Enterprises, LLC",Media,"1st Lien, Secured Loan",9.00%,investments at fair value,02/04/2026,,02/04/2029,7000,7000,7000,gecc-20260331,1,29
+PFI Lower Midco LLC,Food & Staples,"1st Lien, Secured Loan",1M SOFR + 4.00% (7.67%),investments at fair value,11/14/2025,,12/01/2032,1995,1994,1999,gecc-20260331,1,30
+PFS Holdings Corp.,Food & Staples,Common Equity,,investments at fair value,11/13/2020,5.05%,,5238,12379,0,gecc-20260331,2,2
+PowerStop LLC,Transportation Equipment Manufacturing,"1st Lien, Secured Loan",6M SOFR + 4.75% (8.55%),investments at fair value,02/09/2024,,01/26/2029,1595,1503,1360,gecc-20260331,2,3
+"ProFrac Holdings II, LLC",Energy Services,"1st Lien, Secured Bond",3M SOFR + 7.25% (11.21%),investments at fair value,12/27/2023,,01/23/2029,5366,5333,5280,gecc-20260331,2,4
+Ruby Tuesday Operations LLC,Restaurants,"1st Lien, Secured Loan",1M SOFR + 16.00% (0.00% Cash + 19.78% PIK),investments at fair value,01/31/2023,,02/24/2027,177,177,175,gecc-20260331,2,5
+Ruby Tuesday Operations LLC,Restaurants,"1st Lien, Secured Loan",1M SOFR + 12.00% (9.78% Cash + 6.00% PIK),investments at fair value,09/03/2024,,02/24/2027,2669,2659,2612,gecc-20260331,2,6
+Ruby Tuesday Operations LLC,Restaurants,Warrants,,investments at fair value,02/24/2021,*,,311697,0,74,gecc-20260331,2,7
+"Ryan, LLC",Business Services,"1st Lien, Secured Loan",1M SOFR + 3.50% (7.17%),investments at fair value,11/05/2025,,11/05/2032,4000,3981,3864,gecc-20260331,2,8
+SCIH Salt Holdings Inc.,Food & Staples,"1st Lien, Secured Loan",6M SOFR + 2.75% (6.35%),investments at fair value,10/14/2025,,01/31/2029,3990,3987,3977,gecc-20260331,2,9
+"Thryv, Inc.",Marketing Services,"1st Lien, Secured Loan",1M SOFR + 6.75% (10.42%),investments at fair value,04/30/2024,,05/01/2029,1215,1207,1190,gecc-20260331,2,10
+"Trident TPI Holding, Inc.",Packaging,"1st Lien, Secured Loan",3M SOFR + 3.75% (7.45%),investments at fair value,03/23/2026,,09/18/2028,997,944,943,gecc-20260331,2,11
+"Trident TPI Holding, Inc.",Packaging,Unsecured Bond,12.75%,investments at fair value,11/26/2025,,12/31/2028,2000,2029,1948,gecc-20260331,2,12
+Trouvaille Re Ltd.,Insurance,Preference Shares,,investments at fair value,03/27/2024,,,100,5000,6975,gecc-20260331,2,13
+TRU Taj Trust,Retail,Common Equity,,investments at fair value,07/21/2017,2.75%,,16000,611,84,gecc-20260331,2,14
+TruGreen LP,Consumer Services,"1st Lien, Secured Loan",3M SOFR + 4.00% (7.77%),investments at fair value,05/14/2024,,11/02/2027,2260,2211,2147,gecc-20260331,2,15
+TruGreen LP,Consumer Services,"2nd Lien, Secured Loan",3M SOFR + 8.50% (12.43%),investments at fair value,05/14/2024,,11/02/2028,1400,1235,1284,gecc-20260331,2,16
+Universal Fiber Systems,Chemicals,"1st Lien, Secured Loan",1M SOFR + 12.00% (7.78% Cash + 8.00% PIK),investments at fair value,10/16/2024,,09/30/2028,6029,6022,6330,gecc-20260331,2,17
+Universal Fiber Systems,Chemicals,Common Equity,,investments at fair value,10/16/2024,5.44%,,41687,6807,1838,gecc-20260331,2,18
+Universal Fiber Systems,Chemicals,Common Equity,,investments at fair value,10/16/2024,*,,371,0,0,gecc-20260331,2,19
+Universal Fiber Systems,Chemicals,Common Equity,,investments at fair value,10/16/2024,2.37%,,976,0,0,gecc-20260331,2,20
+VCI Asset Holdings 2 LLC,Technology,"1st Lien, Secured Loan",7.38%,investments at fair value,02/13/2026,,02/13/2031,2284,2262,2332,gecc-20260331,2,21
+VCI Intermediate TopCo 2 LLC,Technology,Private Fund,,investments at fair value,02/13/2026,,,228400,228,229,gecc-20260331,2,22
+"Victra Holdings, LLC",Retail,"1st Lien, Secured Loan",3M SOFR + 3.75% (7.45%),investments at fair value,09/10/2024,,03/31/2029,1348,1348,1331,gecc-20260331,2,23
+"Vivos Holdings, LLC",Consumer Products,"1st Lien, Secured Loan",1M SOFR + 6.00% (9.68%),investments at fair value,08/13/2025,,08/13/2030,4726,4684,4635,gecc-20260331,2,24
+"Vivos Holdings, LLC",Consumer Products,"2nd Lien, Secured Loan",1M SOFR + 10.00% (0.00% Cash + 13.67% PIK),investments at fair value,08/13/2025,,02/13/2031,10371,10371,10519,gecc-20260331,2,25
+"Vivos Holdings, LLC",Consumer Products,Promissory Note,4.50% PIK,investments at fair value,08/13/2025,,08/13/2032,2069,2069,2069,gecc-20260331,2,26
+"Vivos Holdings, LLC",Consumer Products,Promissory Note,9.00% PIK,investments at fair value,08/13/2025,,08/13/2032,94,129,94,gecc-20260331,2,27
+"Vivos Holdings, LLC",Consumer Products,Warrants,,investments at fair value,08/13/2025,*,,592,0,81,gecc-20260331,2,28
+"W&T Offshore, Inc.",Oil & Gas Exploration & Production,"2nd Lien, Secured Bond",10.75%,investments at fair value,01/14/2025,,02/02/2029,1900,1632,1945,gecc-20260331,2,29
+"Walor North America, Inc",Industrial,"1st Lien, Secured Loan",1M SOFR + 5.75% (9.55%),investments at fair value,06/17/2025,,06/17/2028,1369,1369,1363,gecc-20260331,2,30
+MFB Northern Inst Funds Treas Portfolio Premier CL,Short-Term Investments,Money Market,4.16%,short-term investments,,,,9599565,9600,9600,gecc-20260331,2,34
